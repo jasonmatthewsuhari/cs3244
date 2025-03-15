@@ -8,91 +8,95 @@ from bs4 import BeautifulSoup
 # (inappropriate, but image) 746900975928090628
 
 def fetch_html_playwright(tweet_id):
-    """Fetches tweet data, including quoted tweets, using Playwright and BeautifulSoup."""
     url = f"https://nitter.net/username/status/{tweet_id}"
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
-        page.goto(url, timeout=10000)
-        
-        html = page.content()
-        soup = BeautifulSoup(html, "html.parser")
 
-        print(soup.prettify())
+        try:
+            page.goto(url, timeout=15000, wait_until="domcontentloaded")
+            
+            html = page.content()
+            soup = BeautifulSoup(html, "html.parser")
 
-        if not soup.select_one("div.tweet-content"):
-            return None  # Tweet not found
+            print(soup.prettify())
 
-        # **Extract Main Tweet**
-        tweet_text = soup.select_one("div.tweet-content").text.strip()
-        tweet_image = None
-        image_tag = soup.select_one("div.attachments a.still-image")
-        if image_tag:
-            tweet_image = f"https://nitter.net{image_tag["href"]}"
-        author_name = soup.select_one("div.fullname-and-username a.fullname").text.strip()
-        username = soup.select_one("div.fullname-and-username a.username").text.strip()
-        tweet_time = soup.select_one("span.tweet-date a").text.strip()
-        tweet_id = soup.select_one("link[rel=canonical]")["href"].split("/")[-1]
+            if not soup.select_one("div.tweet-content"):
+                return None  # Tweet not found
 
-        # Extract stats (Replies, Retweets, Quotes, Likes)
-        stats = [
-            soup.select_one(f"div.tweet-stats span:nth-of-type({i})").text.strip()
-            if soup.select_one(f"div.tweet-stats span:nth-of-type({i})") else "0"
-            for i in range(1, 5)
-        ]
-        reply_count, retweets, quotes, likes = map(lambda x: int(x) if x.isdigit() else 0, stats)
+            # **Extract Main Tweet**
+            tweet_text = soup.select_one("div.tweet-content").text.strip()
+            tweet_image = None
+            image_tag = soup.select_one("div.attachments a.still-image")
+            if image_tag:
+                tweet_image = f"https://nitter.net{image_tag["href"]}"
+            author_name = soup.select_one("div.fullname-and-username a.fullname").text.strip()
+            username = soup.select_one("div.fullname-and-username a.username").text.strip()
+            tweet_time = soup.select_one("span.tweet-date a").text.strip()
+            tweet_id = soup.select_one("link[rel=canonical]")["href"].split("/")[-1]
 
-        quoted_tweet = None
-        quoted_section = soup.select_one("div.quote")
-        if quoted_section:
-            quoted_author = quoted_section.select_one("div.fullname-and-username a.fullname").text.strip()
-            quoted_username = quoted_section.select_one("div.fullname-and-username a.username").text.strip()
-            quoted_text = quoted_section.select_one("div.quote-text").text.strip()
-            quoted_time = quoted_section.select_one("span.tweet-date a").text.strip()
-            quoted_id = quoted_section.select_one("a.quote-link")["href"].split("/")[-1]
+            # Extract stats (Replies, Retweets, Quotes, Likes)
+            stats = [
+                soup.select_one(f"div.tweet-stats span:nth-of-type({i})").text.strip()
+                if soup.select_one(f"div.tweet-stats span:nth-of-type({i})") else "0"
+                for i in range(1, 5)
+            ]
+            reply_count, retweets, quotes, likes = map(lambda x: int(x) if x.isdigit() else 0, stats)
 
-            quoted_tweet = {
-                "tweet_id": quoted_id,
-                "author_name": quoted_author,
-                "username": quoted_username,
-                "tweet_text": quoted_text,
-                "tweet_time": quoted_time
+            quoted_tweet = None
+            quoted_section = soup.select_one("div.quote")
+            if quoted_section:
+                quoted_author = quoted_section.select_one("div.fullname-and-username a.fullname").text.strip()
+                quoted_username = quoted_section.select_one("div.fullname-and-username a.username").text.strip()
+                quoted_text = quoted_section.select_one("div.quote-text").text.strip()
+                quoted_time = quoted_section.select_one("span.tweet-date a").text.strip()
+                quoted_id = quoted_section.select_one("a.quote-link")["href"].split("/")[-1]
+
+                quoted_tweet = {
+                    "tweet_id": quoted_id,
+                    "author_name": quoted_author,
+                    "username": quoted_username,
+                    "tweet_text": quoted_text,
+                    "tweet_time": quoted_time
+                }
+
+            replies = []
+            reply_elements = soup.select(".replies .tweet-body")
+
+            for reply in reply_elements:
+                reply_user = reply.select_one(".fullname").text.strip() if reply.select_one(".fullname") else None
+                reply_handle = reply.select_one(".username").text.strip() if reply.select_one(".username") else None
+                reply_text = reply.select_one(".tweet-content").text.strip() if reply.select_one(".tweet-content") else None
+                reply_date = reply.select_one(".tweet-date a").text.strip() if reply.select_one(".tweet-date a") else None
+
+                replies.append({
+                    "username": reply_user,
+                    "handle": reply_handle,
+                    "reply_text": reply_text,
+                    "reply_date": reply_date
+                })
+
+            tweet_data = {
+                "tweet_id": tweet_id,
+                "tweet_text": tweet_text,
+                "tweet_image": tweet_image,
+                "author_name": author_name,
+                "username": username,
+                "tweet_time": tweet_time,
+                "reply_count": reply_count,
+                "retweets": retweets,
+                "quotes": quotes,
+                "likes": likes,
+                "quoted_tweet": quoted_tweet,
+                "replies": replies
             }
 
-        replies = []
-        reply_elements = soup.select(".replies .tweet-body")
+            browser.close()
+            return tweet_data
 
-        for reply in reply_elements:
-            reply_user = reply.select_one(".fullname").text.strip() if reply.select_one(".fullname") else None
-            reply_handle = reply.select_one(".username").text.strip() if reply.select_one(".username") else None
-            reply_text = reply.select_one(".tweet-content").text.strip() if reply.select_one(".tweet-content") else None
-            reply_date = reply.select_one(".tweet-date a").text.strip() if reply.select_one(".tweet-date a") else None
-
-            replies.append({
-                "username": reply_user,
-                "handle": reply_handle,
-                "reply_text": reply_text,
-                "reply_date": reply_date
-            })
-
-        tweet_data = {
-            "tweet_id": tweet_id,
-            "tweet_text": tweet_text,
-            "tweet_image": tweet_image,
-            "author_name": author_name,
-            "username": username,
-            "tweet_time": tweet_time,
-            "reply_count": reply_count,
-            "retweets": retweets,
-            "quotes": quotes,
-            "likes": likes,
-            "quoted_tweet": quoted_tweet,
-            "replies": replies
-        }
-
-        browser.close()
-        return tweet_data
+        except:
+            "oopsie"
 
 if __name__ == "__main__":
     tweet_id = "747643690521341953"
