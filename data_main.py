@@ -3,7 +3,7 @@ import os
 from scripts.pw_scrape import fetch_html_playwright  # Importing function
 
 # make sure to change the input file to the correct one, whichever one that is
-INPUT_FILE = "data/dog.txt"
+INPUT_FILE = "data/full_train_plaintext.txt"
 OUTPUT_FILE = "data/output/tweets_data.json"
 FAILURES_FILE = "data/output/failures.txt"
 
