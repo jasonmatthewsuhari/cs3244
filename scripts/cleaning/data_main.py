@@ -2,17 +2,17 @@ import json
 import os
 import time
 from datetime import timedelta
-from scripts.pw_scrape import fetch_html_playwright  # Importing function
+from pw_scrape import fetch_html_playwright  # Importing function
 
 # make sure to change the input file to the correct one, whichever one that is
-INPUT_FILE = "data/full_train_plaintext.txt"
-OUTPUT_FILE = "data/output/tweets_data.json"
-FAILURES_FILE = "data/output/failures.txt"
+INPUT_FILE = "../../data/full_train_plaintext.txt"
+OUTPUT_FILE = "../../data/output/tweets_data.json"
+FAILURES_FILE = "../../data/output/failures.txt"
 
 def format_time(seconds):
     return str(timedelta(seconds=int(seconds)))
 
-def process_tweets():
+def process_tweets(batch_size=10):
     tweets_data = {}
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
@@ -32,8 +32,9 @@ def process_tweets():
     total_processing_time = 0
 
     with open(INPUT_FILE, "r", encoding="utf-8") as file:
-        next(file)
+        next(file)  # Skip header line
 
+        batch = []
         for line in file:
             tweet_start_time = time.time()
             processed += 1
@@ -64,13 +65,21 @@ def process_tweets():
                 continue
 
             tweets_data[tweet_id] = html_string
+            batch.append(tweet_id)
 
-            with open(OUTPUT_FILE, "w", encoding="utf-8") as json_file:
-                json.dump(tweets_data, json_file, indent=4, ensure_ascii=False)
+            if len(batch) >= batch_size:
+                with open(OUTPUT_FILE, "w", encoding="utf-8") as json_file:
+                    json.dump(tweets_data, json_file, indent=4, ensure_ascii=False)
+                batch.clear()
 
             failure_rate = (failures / processed) * 100
             print(f"✅ Processed Tweet ID: {tweet_id} @ [{processed}/{total_tweets}] - {progress_pct:.1f}% done, {failure_rate:.1f}% failure rate")
             print(f"   Estimated time remaining: {format_time(estimated_time_remaining)} (Avg: {avg_time_per_tweet:.1f}s/tweet)")
+
+    # Final write for any remaining tweets
+    if batch:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as json_file:
+            json.dump(tweets_data, json_file, indent=4, ensure_ascii=False)
 
     total_time = time.time() - start_time
     print(f"\nProcessing complete!")
@@ -83,4 +92,4 @@ def process_tweets():
 
 # **Run the script**
 if __name__ == "__main__":
-    process_tweets()
+    process_tweets(batch_size=10)

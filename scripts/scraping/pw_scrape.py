@@ -11,14 +11,17 @@ def fetch_html_playwright(tweet_id):
     url = f"https://nitter.net/username/status/{tweet_id}"
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)  # Run in headless mode
         page = browser.new_page()
 
+        # Disable images, CSS, and fonts
+        page.route("**/*", lambda route: route.abort() if route.request.resource_type in ["image", "stylesheet", "font"] else route.continue_())
+
         try:
-            page.goto(url, timeout=15000, wait_until="domcontentloaded")
+            page.goto(url, timeout=10000, wait_until="domcontentloaded")
             
             html = page.content()
-            soup = BeautifulSoup(html, "html.parser")
+            soup = BeautifulSoup(html, "lxml")  # Use lxml for faster parsing
 
             print(soup.prettify())
 
@@ -30,7 +33,7 @@ def fetch_html_playwright(tweet_id):
             tweet_image = None
             image_tag = soup.select_one("div.attachments a.still-image")
             if image_tag:
-                tweet_image = f"https://nitter.net{image_tag["href"]}"
+                tweet_image = f"https://nitter.net{image_tag['href']}"
             author_name = soup.select_one("div.fullname-and-username a.fullname").text.strip()
             username = soup.select_one("div.fullname-and-username a.username").text.strip()
             tweet_time = soup.select_one("span.tweet-date a").text.strip()
@@ -95,8 +98,9 @@ def fetch_html_playwright(tweet_id):
             browser.close()
             return tweet_data
 
-        except:
-            "oopsie"
+        except Exception as e:
+            print(f"Error fetching tweet {tweet_id}: {e}")
+            return None
 
 if __name__ == "__main__":
     tweet_id = "747643690521341953"
