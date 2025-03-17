@@ -1,0 +1,1792 @@
+emoji,category,title,keywords
+#️⃣,symbols,keycap number sign,"[keycap, symbol, pound, hash, number]"
+*️⃣,symbols,keycap asterisk,"[keycap, symbol, asterisk, star]"
+0️⃣,symbols,keycap digit zero,"[, keycap, symbol, number, zero, math]"
+1️⃣,symbols,keycap digit one,"[, keycap, symbol, number, one, math]"
+2️⃣,symbols,keycap digit two,"[, keycap, symbol, two, number, math]"
+3️⃣,symbols,keycap digit three,"[, keycap, symbol, three, number, math]"
+4️⃣,symbols,keycap digit four,"[, keycap, symbol, number, four, math]"
+5️⃣,symbols,keycap digit five,"[, keycap, symbol, number, five, math]"
+6️⃣,symbols,keycap digit six,"[, keycap, symbol, six, number, math]"
+7️⃣,symbols,keycap digit seven,"[, seven, keycap, symbol, number, math]"
+8️⃣,symbols,keycap digit eight,"[, keycap, symbol, number, eight, math]"
+9️⃣,symbols,keycap digit nine,"[, keycap, symbol, number, nine, math]"
+©,symbols,copyright sign,"[symbol, copyright]"
+®,symbols,registered sign,"[registered, symbol]"
+‼,symbols,double exclamation mark,"[bangbang, exclamation, symbol, punctuation, mark]"
+⁉,symbols,exclamation question mark,"[exclamation, symbol, punctuation, question, mark, interrobang]"
+™,symbols,trade mark sign,"[symbol, tm, trademark, mark]"
+ℹ,symbols,information source,"[i, information, symbol]"
+↔,symbols,left right arrow,"[symbol, arrow]"
+↕,symbols,up down arrow,"[symbol, arrow]"
+↖,symbols,north west arrow,"[symbol, direction, intercardinal, northwest, arrow]"
+↗,symbols,north east arrow,"[northeast, direction, intercardinal, symbol, arrow]"
+↘,symbols,south east arrow,"[southeast, direction, intercardinal, symbol, arrow]"
+↙,symbols,south west arrow,"[direction, intercardinal, symbol, arrow, southwest]"
+↩,symbols,leftwards arrow with hook,"[symbol, arrow]"
+↪,symbols,rightwards arrow with hook,"[symbol, arrow]"
+⌚,objects,watch,"[electronics, time, watch, clock]"
+⌛,objects,hourglass,"[sand, object, time, timer, hourglass]"
+⌨,objects,keyboard,"[work, electronics, computer, office, keyboard]"
+⏏,,eject symbol,[eject]
+⏩,symbols,black right pointing double triangle,"[forward, double, symbol, fast, arrow]"
+⏪,symbols,black left pointing double triangle,"[double, symbol, arrow, rewind]"
+⏫,symbols,black up pointing double triangle,"[double, symbol, arrow]"
+⏬,symbols,black down pointing double triangle,"[down, double, symbol, arrow]"
+⏭,symbols,black right pointing double triangle with vertical bar,"[triangle, next scene, symbol, next track, arrow]"
+⏮,symbols,black left pointing double triangle with vertical bar,"[triangle, previous scene, symbol, previous track, arrow]"
+⏯,symbols,black right pointing triangle with double vertical bar,"[play, pause, triangle, symbol, right, arrow]"
+⏰,objects,alarm clock,"[alarm, object, time, clock]"
+⏱,objects,stopwatch,"[stopwatch, electronics, time, clock]"
+⏲,objects,timer clock,"[object, time, timer, clock]"
+⏳,objects,hourglass with flowing sand,"[sand, object, time, timer, hourglass]"
+⏸,symbols,double vertical bar,"[double, symbol, pause, bar, vertical]"
+⏹,symbols,black square for stop,"[symbol, square, stop]"
+⏺,symbols,black circle for record,"[record, circle, symbol]"
+Ⓜ,symbols,circled latin capital letter m,"[circle, m, symbol]"
+▪,symbols,black small square,"[shapes, geometric, square, symbol]"
+▫,symbols,white small square,"[shapes, geometric, square, symbol]"
+▶,symbols,black right pointing triangle,"[play, right, triangle, symbol, arrow]"
+◀,symbols,black left pointing triangle,"[symbol, triangle, reverse, arrow, left]"
+◻,symbols,white medium square,"[shapes, geometric, square, symbol]"
+◼,symbols,black medium square,"[shapes, geometric, square, symbol]"
+◽,symbols,white medium small square,"[shapes, geometric, square, symbol]"
+◾,symbols,black medium small square,"[shapes, geometric, square, symbol]"
+☀,nature,black sun with rays,"[rays, space, sun, sunny, hot, morning, bright, weather, day, sky]"
+☁,nature,cloud,"[cold, weather, sky, rain, cloud]"
+☂,nature,umbrella,"[umbrella, object, sky, rain, weather, cold, clothing]"
+☃,nature,snowman,"[snowman, winter, snow, holidays, weather, cold, christmas]"
+☄,nature,comet,"[comet, sky, space]"
+☎,objects,black telephone,"[phone, electronics, telephone]"
+☑,symbols,ballot box with check,"[box, symbol, ballot, check]"
+☔,nature,umbrella with rain drops,"[umbrella, drop, sky, rain, weather, cold, clothing]"
+☕,food,hot beverage,"[coffee, steaming, tea, drink, caffeine, morning, hot, beverage, steam]"
+☘,nature,shamrock,"[shamrock, plant, luck, leaf, nature]"
+☝,people,white up pointing index,"[body, index, diversity, point, emojione, up, hand, finger, hands]"
+☝🏻,people,white up pointing index type,[]
+☝🏼,people,white up pointing index type,[]
+☝🏽,people,white up pointing index type,[]
+☝🏾,people,white up pointing index type,[]
+☝🏿,people,white up pointing index type,[]
+☠,objects,skull and crossbones,"[body, death, monster, skull, symbol, dead, face, crossbones]"
+☢,symbols,radioactive sign,"[science, symbol, radioactive]"
+☣,symbols,biohazard sign,"[science, symbol, biohazard]"
+☦,symbols,orthodox cross,"[religion, symbol, christian, cross]"
+☪,symbols,star and crescent,"[religion, symbol, muslim, islam]"
+☮,symbols,peace symbol,"[drugs, symbol, peace]"
+☯,symbols,yin yang,"[taoist, symbol, yin, religion, yang, tao]"
+☸,symbols,wheel of dharma,"[wheel, dharma, symbol, buddhist, religion]"
+☹,people,white frowning face,"[emotion, sad, frown, smiley, face]"
+☺,people,white smiling face,"[outlined, smiley, face, smile, relaxed, happy]"
+♈,symbols,aries,"[zodiac, ram, symbol, aries]"
+♉,symbols,taurus,"[zodiac, ox, symbol, taurus, bull]"
+♊,symbols,gemini,"[zodiac, gemini, twins, symbol]"
+♋,symbols,cancer,"[symbol, zodiac, crab, cancer]"
+♌,symbols,leo,"[symbol, lion, zodiac, leo]"
+♍,symbols,virgo,"[virgo, virgin, zodiac, symbol, maiden]"
+♎,symbols,libra,"[scales, justice, symbol, libra, zodiac, balance]"
+♏,symbols,scorpius,"[scorpio, zodiac, scorpion, scorpius, symbol]"
+♐,symbols,sagittarius,"[symbol, zodiac, archer, sagittarius]"
+♑,symbols,capricorn,"[capricorn, zodiac, symbol, goat]"
+♒,symbols,aquarius,"[water, zodiac, aquarius, symbol, bearer]"
+♓,symbols,pisces,"[symbol, pisces, fish, zodiac]"
+♠,symbols,black spade suit,"[symbol, game, spade, card, suit]"
+♣,symbols,black club suit,"[club, symbol, game, clubs, suit, card]"
+♥,symbols,black heart suit,"[heart, love, symbol, game, suit, hearts, card]"
+♦,symbols,black diamond suit,"[diamond, symbol, diamonds, shapes, game, suit, card]"
+♨,symbols,hot springs,"[steaming, springs, hot, hotsprings, symbol]"
+♻,symbols,black universal recycling symbol,"[recycle, symbol]"
+♿,symbols,wheelchair symbol,"[access, wheelchair, symbol]"
+⚒,objects,hammer and pick,"[tool, object, hammer, weapon, pick]"
+⚓,travel,anchor,"[tool, object, vacation, ship, anchor, boat, travel]"
+⚔,objects,crossed swords,"[swords, weapon, object, crossed]"
+⚖,objects,scales,"[weight, scales, justice, tool, object, libra, zodiac, balance]"
+⚗,objects,alembic,"[science, tool, chemistry, alembic, object]"
+⚙,objects,gear,"[tool, object, gear]"
+⚛,symbols,atom symbol,"[science, atheist, symbol, atom]"
+⚜,symbols,fleur de lis,"[symbol, object, fleur de lis]"
+⚠,symbols,warning sign,"[symbol, warning, punctuation]"
+⚡,nature,high voltage sign,"[electric, danger, electricity, diarrhea, sky, lightning, weather, voltage, zap]"
+⚪,symbols,medium white circle,"[shapes, circle, symbol, geometric]"
+⚫,symbols,medium black circle,"[shapes, circle, symbol, geometric]"
+⚰,objects,coffin,"[dead, death, rip, coffin, object]"
+⚱,objects,funeral urn,"[death, funeral, object, dead, rip, urn]"
+⚽,activity,soccer ball,"[soccer, game, ball, sport, football]"
+⚾,activity,baseball,"[sport, game, ball, baseball]"
+⛄,nature,snowman without snow,"[snowman, winter, snow, holidays, weather, cold]"
+⛅,nature,sun behind cloud,"[sun, weather, sky, cloud]"
+⛈,nature,thunder cloud and rain,"[thunder, sky, rain, weather, cold, cloud]"
+⛎,symbols,ophiuchus,"[bearer, serpent, symbol, snake, zodiac, ophiuchus]"
+⛏,objects,pick,"[weapon, mining, object, tool, pick]"
+⛑,people,helmet with white cross,"[helmet, object, cross, face, job, accessories, aid, hat]"
+⛓,objects,chains,"[tool, object, chain]"
+⛔,symbols,no entry,"[no, forbidden, traffic, prohibited, not, entry, circle, symbol]"
+⛩,travel,shinto shrine,"[building, places, travel, vacation, religion, shrine, shinto]"
+⛪,travel,church,"[building, christian, places, wedding, cross, religion, church, condolence]"
+⛰,travel,mountain,"[mountain, travel, camp, vacation, places]"
+⛱,objects,umbrella on ground,"[umbrella, sun, travel, vacation, rain, tropical, weather]"
+⛲,travel,fountain,"[travel, fountain, vacation]"
+⛳,activity,flag in hole,"[ball, golf, flag, vacation, game, hole, sport]"
+⛴,travel,ferry,"[ferry, travel, transportation, vacation, boat]"
+⛵,travel,sailboat,"[transportation, sailboat, travel, yacht, vacation, resort, sea, vehicle, boat]"
+⛷,activity,skier,"[ski, snow, vacation, skiing, cold, sport, hat]"
+⛸,activity,ice skate,"[cold, skate, sport, ice skating, ice]"
+⛹,activity,person with ball,"[basketball, diversity, men, game, ball, sport]"
+⛹🏻,activity,person with ball type,[]
+⛹🏼,activity,person with ball type,[]
+⛹🏽,activity,person with ball type,[]
+⛹🏾,activity,person with ball type,[]
+⛹🏿,activity,person with ball type,[]
+⛺,travel,tent,"[camping, places, travel, camp, vacation, tent]"
+⛽,travel,fuel pump,"[fuelpump, object, gas, gas pump, pump, station, fuel]"
+✂,objects,black scissors,"[scissors, tool, object, weapon, office]"
+✅,symbols,white heavy check mark,"[symbol, check, mark]"
+✈,travel,airplane,"[fly, transportation, travel, vacation, plane, vehicle, airplane]"
+✉,objects,envelope,"[office, object, envelope, write, e mail, email]"
+✊,people,raised fist,"[body, diversity, punch, clenched, hand, hi, fist, hands, condolence, fist bump]"
+✊🏻,people,raised fist type,[]
+✊🏼,people,raised fist type,[]
+✊🏽,people,raised fist type,[]
+✊🏾,people,raised fist type,[]
+✊🏿,people,raised fist type,[]
+✋,people,raised hand,"[body, diversity, hand, hi, girls night, hands]"
+✋🏻,people,raised hand type,[]
+✋🏼,people,raised hand type,[]
+✋🏽,people,raised hand type,[]
+✋🏾,people,raised hand type,[]
+✋🏿,people,raised hand type,[]
+✌,people,victory hand,"[body, peace, diversity, v, hand, thank you, hi, girls night, victory, hands]"
+✌🏻,people,victory hand type,[]
+✌🏼,people,victory hand type,[]
+✌🏽,people,victory hand type,[]
+✌🏾,people,victory hand type,[]
+✌🏿,people,victory hand type,[]
+✍,people,writing hand,"[body, write, hands, diversity, hand]"
+✍🏻,people,writing hand type,[]
+✍🏼,people,writing hand type,[]
+✍🏽,people,writing hand type,[]
+✍🏾,people,writing hand type,[]
+✍🏿,people,writing hand type,[]
+✏,objects,pencil,"[write, pencil, object, office]"
+✒,objects,black nib,"[nib, write, pen, object, office]"
+✔,symbols,heavy check mark,"[symbol, check, mark]"
+✖,symbols,heavy multiplication x,"[symbol, multiplication, multiply, cancel, x, math]"
+✝,symbols,latin cross,"[religion, symbol, christian, cross]"
+✡,symbols,star of david,"[star, jew, jewish, symbol, david, religion]"
+✨,nature,sparkles,"[sparkle, star, girls night, entertainment]"
+✳,symbols,eight spoked asterisk,"[symbol, asterisk]"
+✴,symbols,eight pointed black star,"[symbol, star]"
+❄,nature,snowflake,"[winter, sky, snow, holidays, weather, cold, snowflake]"
+❇,symbols,sparkle,"[sparkle, symbol]"
+❌,symbols,cross mark,"[symbol, sol, mark, multiplication, multiply, cancel, x]"
+❎,symbols,negative squared cross mark,"[symbol, square, mark]"
+❓,symbols,black question mark ornament,"[wth, symbol, punctuation, question, mark]"
+❔,symbols,white question mark ornament,"[outlined, punctuation, question, symbol, mark]"
+❕,symbols,white exclamation mark ornament,"[exclamation, outlined, punctuation, symbol, mark]"
+❗,symbols,heavy exclamation mark symbol,"[exclamation, symbol, punctuation, mark]"
+❣,symbols,heavy heart exclamation mark ornament,"[exclamation, heart, love, symbol, punctuation, mark]"
+❤,symbols,heavy black heart,"[heart, symbol, love, parties]"
+➕,symbols,heavy plus sign,"[symbol, plus, math]"
+➖,symbols,heavy minus sign,"[symbol, minus, math]"
+➗,symbols,heavy division sign,"[division, symbol, math]"
+➡,symbols,black rightwards arrow,"[direction, east, cardinal, symbol, arrow]"
+➰,symbols,curly loop,"[curl, symbol, loop]"
+➿,symbols,double curly loop,"[double, curl, symbol, loop]"
+⤴,symbols,arrow pointing rightwards then curving upwards,"[symbol, arrow]"
+⤵,symbols,arrow pointing rightwards then curving downwards,"[down, symbol, arrow]"
+⬅,symbols,leftwards black arrow,"[west, direction, cardinal, symbol, arrow]"
+⬆,symbols,upwards black arrow,"[north, direction, cardinal, symbol, arrow]"
+⬇,symbols,downwards black arrow,"[direction, symbol, down, cardinal, arrow, south]"
+⬛,symbols,black large square,"[shapes, geometric, square, symbol]"
+⬜,symbols,white large square,"[shapes, geometric, square, symbol]"
+⭐,nature,white medium star,"[sky, star, space]"
+⭕,symbols,heavy large circle,"[circle, symbol, o]"
+〰,symbols,wavy dash,"[dash, wavy, punctuation, symbol]"
+〽,symbols,part alternation mark,"[symbol, part, mark]"
+㊗,symbols,circled ideograph congratulation,"[congratulations, ideograph, chinese, symbol, japan, congratulation]"
+㊙,symbols,circled ideograph secret,"[japan, secret, ideograph, symbol, chinese]"
+🀄,symbols,mahjong tile red dragon,"[symbol, game, object, mahjong, red]"
+🃏,symbols,playing card black joker,"[entertainment, symbol, object, joker, game, playing, card]"
+🅰,symbols,negative squared latin capital letter a,"[a, symbol, blood]"
+🅱,symbols,negative squared latin capital letter b,"[symbol, b, blood]"
+🅾,symbols,negative squared latin capital letter o,"[symbol, blood, o]"
+🅿,symbols,negative squared latin capital letter p,"[symbol, parking]"
+🆎,symbols,negative squared ab,"[symbol, ab, blood]"
+🆑,symbols,squared cl,"[symbol, cl]"
+🆒,symbols,squared cool,"[symbol, cool]"
+🆓,symbols,squared free,"[symbol, free]"
+🆔,symbols,squared id,"[symbol, id, identity]"
+🆕,symbols,squared new,"[new, symbol]"
+🆖,symbols,squared ng,"[symbol, ng]"
+🆗,symbols,squared ok,"[symbol, ok]"
+🆘,symbols,squared sos,"[symbol, sos, help]"
+🆙,symbols,squared up with exclamation mark,"[symbol, up, mark]"
+🆚,symbols,squared vs,"[versus, symbol, vs]"
+🇦🇨,flags,regional indicator symbol letter a regional indicator symbol letter c,"[ascension, island, flag, country]"
+🇦🇩,flags,regional indicator symbol letter a regional indicator symbol letter d,"[andorra, country, flag]"
+🇦🇪,flags,regional indicator symbol letter a regional indicator symbol letter e,"[uae, flag, united, emirates, country]"
+🇦🇫,flags,regional indicator symbol letter a regional indicator symbol letter f,"[afghanistan, flag, country]"
+🇦🇬,flags,regional indicator symbol letter a regional indicator symbol letter g,"[country, barbuda, flag, antigua]"
+🇦🇮,flags,regional indicator symbol letter a regional indicator symbol letter i,"[country, flag, anguilla]"
+🇦🇱,flags,regional indicator symbol letter a regional indicator symbol letter l,"[country, flag, albania]"
+🇦🇲,flags,regional indicator symbol letter a regional indicator symbol letter m,"[country, flag, armenia]"
+🇦🇴,flags,regional indicator symbol letter a regional indicator symbol letter o,"[country, flag, angola]"
+🇦🇶,flags,regional indicator symbol letter a regional indicator symbol letter q,"[country, antarctica, flag]"
+🇦🇷,flags,regional indicator symbol letter a regional indicator symbol letter r,"[country, argentina, flag]"
+🇦🇸,flags,regional indicator symbol letter a regional indicator symbol letter s,"[country, american, samoa, flag]"
+🇦🇹,flags,regional indicator symbol letter a regional indicator symbol letter t,"[country, austria, flag]"
+🇦🇺,flags,regional indicator symbol letter a regional indicator symbol letter u,"[country, flag, australia]"
+🇦🇼,flags,regional indicator symbol letter a regional indicator symbol letter w,"[country, flag, aruba]"
+🇦🇽,flags,regional indicator symbol letter a regional indicator symbol letter x,"[country, flag, land]"
+🇦🇿,flags,regional indicator symbol letter a regional indicator symbol letter z,"[country, flag, azerbaijan]"
+🇧🇦,flags,regional indicator symbol letter b regional indicator symbol letter a,"[country, flag, herzegovina, bosnia]"
+🇧🇧,flags,regional indicator symbol letter b regional indicator symbol letter b,"[country, flag, barbados]"
+🇧🇩,flags,regional indicator symbol letter b regional indicator symbol letter d,"[country, flag, bangladesh]"
+🇧🇪,flags,regional indicator symbol letter b regional indicator symbol letter e,"[belgium, country, flag]"
+🇧🇫,flags,regional indicator symbol letter b regional indicator symbol letter f,"[country, flag, burkina faso]"
+🇧🇬,flags,regional indicator symbol letter b regional indicator symbol letter g,"[country, flag, bulgaria]"
+🇧🇭,flags,regional indicator symbol letter b regional indicator symbol letter h,"[bahrain, country, flag]"
+🇧🇮,flags,regional indicator symbol letter b regional indicator symbol letter i,"[burundi, country, flag]"
+🇧🇯,flags,regional indicator symbol letter b regional indicator symbol letter j,"[country, flag, benin]"
+🇧🇱,flags,regional indicator symbol letter b regional indicator symbol letter l,"[country, flag, barth lemy, barthelemy, saint]"
+🇧🇲,flags,regional indicator symbol letter b regional indicator symbol letter m,"[country, flag, bermuda]"
+🇧🇳,flags,regional indicator symbol letter b regional indicator symbol letter n,"[brunei, flag, country, darussalam]"
+🇧🇴,flags,regional indicator symbol letter b regional indicator symbol letter o,"[country, flag, bolivia]"
+🇧🇶,flags,regional indicator symbol letter b regional indicator symbol letter q,"[netherlands, caribbean, country, sint, eustatius, flag, bonaire, saba]"
+🇧🇷,flags,regional indicator symbol letter b regional indicator symbol letter r,"[brazil, country, flag]"
+🇧🇸,flags,regional indicator symbol letter b regional indicator symbol letter s,"[bahamas, country, flag]"
+🇧🇹,flags,regional indicator symbol letter b regional indicator symbol letter t,"[country, flag, bhutan]"
+🇧🇻,flags,regional indicator symbol letter b regional indicator symbol letter v,"[bouvet, flag, country, island]"
+🇧🇼,flags,regional indicator symbol letter b regional indicator symbol letter w,"[country, flag, botswana]"
+🇧🇾,flags,regional indicator symbol letter b regional indicator symbol letter y,"[country, flag, belarus]"
+🇧🇿,flags,regional indicator symbol letter b regional indicator symbol letter z,"[country, flag, belize]"
+🇨🇦,flags,regional indicator symbol letter c regional indicator symbol letter a,"[canada, country, flag]"
+🇨🇨,flags,regional indicator symbol letter c regional indicator symbol letter c,"[island, cocos, flag, keeling, country]"
+🇨🇩,flags,regional indicator symbol letter c regional indicator symbol letter d,"[kinshasa, country, flag, congo, congo kinshasa, republic, drc, democratic republic of congo]"
+🇨🇫,flags,regional indicator symbol letter c regional indicator symbol letter f,"[country, flag, republic, central african republic]"
+🇨🇬,flags,regional indicator symbol letter c regional indicator symbol letter g,"[congo brazzaville, country, republic of the congo, brazzaville, flag, congo, republic, congo republic]"
+🇨🇭,flags,regional indicator symbol letter c regional indicator symbol letter h,"[switzerland, country, flag, neutral]"
+🇨🇮,flags,regional indicator symbol letter c regional indicator symbol letter i,"[cote ivoire, country, flag, c te ivoire, ivory coast]"
+🇨🇰,flags,regional indicator symbol letter c regional indicator symbol letter k,"[cook, island, flag, country]"
+🇨🇱,flags,regional indicator symbol letter c regional indicator symbol letter l,"[country, flag, chile]"
+🇨🇲,flags,regional indicator symbol letter c regional indicator symbol letter m,"[country, flag, cameroon]"
+🇨🇳,flags,regional indicator symbol letter c regional indicator symbol letter n,"[country, flag, china]"
+🇨🇴,flags,regional indicator symbol letter c regional indicator symbol letter o,"[country, flag, colombia]"
+🇨🇵,flags,regional indicator symbol letter c regional indicator symbol letter p,"[clipperton, island, flag, country]"
+🇨🇷,flags,regional indicator symbol letter c regional indicator symbol letter r,"[country, flag, costa rica]"
+🇨🇺,flags,regional indicator symbol letter c regional indicator symbol letter u,"[country, flag, cuba]"
+🇨🇻,flags,regional indicator symbol letter c regional indicator symbol letter v,"[cape, flag, verde, cabo, country]"
+🇨🇼,flags,regional indicator symbol letter c regional indicator symbol letter w,"[country, flag, antilles, curacao, cura ao]"
+🇨🇽,flags,regional indicator symbol letter c regional indicator symbol letter x,"[island, flag, christmas, country]"
+🇨🇾,flags,regional indicator symbol letter c regional indicator symbol letter y,"[country, flag, cyprus]"
+🇨🇿,flags,regional indicator symbol letter c regional indicator symbol letter z,"[country, flag, czech republic]"
+🇩🇪,flags,regional indicator symbol letter d regional indicator symbol letter e,"[country, flag, germany]"
+🇩🇬,flags,regional indicator symbol letter d regional indicator symbol letter g,"[country, flag, diego garcia]"
+🇩🇯,flags,regional indicator symbol letter d regional indicator symbol letter j,"[country, djibouti, flag]"
+🇩🇰,flags,regional indicator symbol letter d regional indicator symbol letter k,"[denmark, flag, country]"
+🇩🇲,flags,regional indicator symbol letter d regional indicator symbol letter m,"[country, flag, dominica]"
+🇩🇴,flags,regional indicator symbol letter d regional indicator symbol letter o,"[country, dominican republic, flag]"
+🇩🇿,flags,regional indicator symbol letter d regional indicator symbol letter z,"[country, flag, algeria]"
+🇪🇦,flags,regional indicator symbol letter e regional indicator symbol letter a,"[ceuta, flag, melilla, country]"
+🇪🇨,flags,regional indicator symbol letter e regional indicator symbol letter c,"[country, flag, ecuador]"
+🇪🇪,flags,regional indicator symbol letter e regional indicator symbol letter e,"[country, flag, estonia]"
+🇪🇬,flags,regional indicator symbol letter e regional indicator symbol letter g,"[egypt, country, flag]"
+🇪🇭,flags,regional indicator symbol letter e regional indicator symbol letter h,"[west, flag, sahara, western sahara, country]"
+🇪🇷,flags,regional indicator symbol letter e regional indicator symbol letter r,"[eritrea, flag, country]"
+🇪🇸,flags,regional indicator symbol letter e regional indicator symbol letter s,"[country, flag, spain]"
+🇪🇹,flags,regional indicator symbol letter e regional indicator symbol letter t,"[ethiopia, flag, country]"
+🇪🇺,flags,regional indicator symbol letter e regional indicator symbol letter u,"[country, flag, european union]"
+🇫🇮,flags,regional indicator symbol letter f regional indicator symbol letter i,"[country, flag, finland]"
+🇫🇯,flags,regional indicator symbol letter f regional indicator symbol letter j,"[country, flag, fiji]"
+🇫🇰,flags,regional indicator symbol letter f regional indicator symbol letter k,"[islas, falklands, island, flag, malvinas, country, falkland]"
+🇫🇲,flags,regional indicator symbol letter f regional indicator symbol letter m,"[country, flag, micronesia]"
+🇫🇴,flags,regional indicator symbol letter f regional indicator symbol letter o,"[island, faroe, flag, country]"
+🇫🇷,flags,regional indicator symbol letter f regional indicator symbol letter r,"[country, flag, france]"
+🇬🇦,flags,regional indicator symbol letter g regional indicator symbol letter a,"[country, flag, gabon]"
+🇬🇧,flags,regional indicator symbol letter g regional indicator symbol letter b,"[united, england, uk, country, scotland, britain, cornwall, united kingdom, flag, great britain, british, ireland, northern ireland, union jack, wales]"
+🇬🇩,flags,regional indicator symbol letter g regional indicator symbol letter d,"[grenada, flag, country]"
+🇬🇪,flags,regional indicator symbol letter g regional indicator symbol letter e,"[country, flag, georgia]"
+🇬🇫,flags,regional indicator symbol letter g regional indicator symbol letter f,"[country, flag, french, guiana]"
+🇬🇬,flags,regional indicator symbol letter g regional indicator symbol letter g,"[country, flag, guernsey]"
+🇬🇭,flags,regional indicator symbol letter g regional indicator symbol letter h,"[ghana, country, flag]"
+🇬🇮,flags,regional indicator symbol letter g regional indicator symbol letter i,"[country, flag, gibraltar]"
+🇬🇱,flags,regional indicator symbol letter g regional indicator symbol letter l,"[country, flag, greenland]"
+🇬🇲,flags,regional indicator symbol letter g regional indicator symbol letter m,"[gambia, flag, country]"
+🇬🇳,flags,regional indicator symbol letter g regional indicator symbol letter n,"[guinea, flag, country]"
+🇬🇵,flags,regional indicator symbol letter g regional indicator symbol letter p,"[country, flag, guadeloupe]"
+🇬🇶,flags,regional indicator symbol letter g regional indicator symbol letter q,"[guinea, flag, country, equatorial guinea]"
+🇬🇷,flags,regional indicator symbol letter g regional indicator symbol letter r,"[country, flag, greece]"
+🇬🇸,flags,regional indicator symbol letter g regional indicator symbol letter s,"[georgia, south sandwich, island, flag, south georgia, country, south]"
+🇬🇹,flags,regional indicator symbol letter g regional indicator symbol letter t,"[country, flag, guatemala]"
+🇬🇺,flags,regional indicator symbol letter g regional indicator symbol letter u,"[country, flag, guam]"
+🇬🇼,flags,regional indicator symbol letter g regional indicator symbol letter w,"[guinea, flag, bissau, country]"
+🇬🇾,flags,regional indicator symbol letter g regional indicator symbol letter y,"[country, flag, guyana]"
+🇭🇰,flags,regional indicator symbol letter h regional indicator symbol letter k,"[hong kong, flag, china, country]"
+🇭🇲,flags,regional indicator symbol letter h regional indicator symbol letter m,"[mcdonald, heard, flag, country, island]"
+🇭🇳,flags,regional indicator symbol letter h regional indicator symbol letter n,"[country, flag, honduras]"
+🇭🇷,flags,regional indicator symbol letter h regional indicator symbol letter r,"[country, flag, croatia]"
+🇭🇹,flags,regional indicator symbol letter h regional indicator symbol letter t,"[country, flag, haiti]"
+🇭🇺,flags,regional indicator symbol letter h regional indicator symbol letter u,"[hungary, flag, country]"
+🇮🇨,flags,regional indicator symbol letter i regional indicator symbol letter c,"[island, flag, canary, country]"
+🇮🇩,flags,regional indicator symbol letter i regional indicator symbol letter d,"[country, flag, indonesia]"
+🇮🇪,flags,regional indicator symbol letter i regional indicator symbol letter e,"[country, flag, ireland]"
+🇮🇱,flags,regional indicator symbol letter i regional indicator symbol letter l,"[country, flag, israel, jew]"
+🇮🇲,flags,regional indicator symbol letter i regional indicator symbol letter m,"[country, flag, isle of man]"
+🇮🇳,flags,regional indicator symbol letter i regional indicator symbol letter n,"[country, flag, india]"
+🇮🇴,flags,regional indicator symbol letter i regional indicator symbol letter o,"[country, british, indian ocean, chagos, flag, island]"
+🇮🇶,flags,regional indicator symbol letter i regional indicator symbol letter q,"[country, flag, iraq]"
+🇮🇷,flags,regional indicator symbol letter i regional indicator symbol letter r,"[country, flag, iran]"
+🇮🇸,flags,regional indicator symbol letter i regional indicator symbol letter s,"[iceland, flag, country]"
+🇮🇹,flags,regional indicator symbol letter i regional indicator symbol letter t,"[country, flag, italy, italian]"
+🇯🇪,flags,regional indicator symbol letter j regional indicator symbol letter e,"[country, flag, jersey]"
+🇯🇲,flags,regional indicator symbol letter j regional indicator symbol letter m,"[jamaica, flag, country]"
+🇯🇴,flags,regional indicator symbol letter j regional indicator symbol letter o,"[country, flag, jordan]"
+🇯🇵,flags,regional indicator symbol letter j regional indicator symbol letter p,"[japan, flag, country]"
+🇰🇪,flags,regional indicator symbol letter k regional indicator symbol letter e,"[kenya, flag, country]"
+🇰🇬,flags,regional indicator symbol letter k regional indicator symbol letter g,"[country, flag, kyrgyzstan]"
+🇰🇭,flags,regional indicator symbol letter k regional indicator symbol letter h,"[country, flag, cambodia]"
+🇰🇮,flags,regional indicator symbol letter k regional indicator symbol letter i,"[kiribati, flag, country]"
+🇰🇲,flags,regional indicator symbol letter k regional indicator symbol letter m,"[country, flag, comoros]"
+🇰🇳,flags,regional indicator symbol letter k regional indicator symbol letter n,"[country, flag, saint, nevis, kitts]"
+🇰🇵,flags,regional indicator symbol letter k regional indicator symbol letter p,"[north korea, country, flag, korea, north]"
+🇰🇷,flags,regional indicator symbol letter k regional indicator symbol letter r,"[country, flag, korea, south korea, south]"
+🇰🇼,flags,regional indicator symbol letter k regional indicator symbol letter w,"[kuwait, flag, country]"
+🇰🇾,flags,regional indicator symbol letter k regional indicator symbol letter y,"[cayman, flag, country, island]"
+🇰🇿,flags,regional indicator symbol letter k regional indicator symbol letter z,"[country, flag, kazakhstan]"
+🇱🇦,flags,regional indicator symbol letter l regional indicator symbol letter a,"[country, flag, laos]"
+🇱🇧,flags,regional indicator symbol letter l regional indicator symbol letter b,"[country, flag, lebanon]"
+🇱🇨,flags,regional indicator symbol letter l regional indicator symbol letter c,"[country, flag, saint, lucia]"
+🇱🇮,flags,regional indicator symbol letter l regional indicator symbol letter i,"[country, flag, liechtenstein]"
+🇱🇰,flags,regional indicator symbol letter l regional indicator symbol letter k,"[sri lanka, country, flag]"
+🇱🇷,flags,regional indicator symbol letter l regional indicator symbol letter r,"[liberia, flag, country]"
+🇱🇸,flags,regional indicator symbol letter l regional indicator symbol letter s,"[lesotho, flag, country]"
+🇱🇹,flags,regional indicator symbol letter l regional indicator symbol letter t,"[country, flag, lithuania]"
+🇱🇺,flags,regional indicator symbol letter l regional indicator symbol letter u,"[country, flag, luxembourg]"
+🇱🇻,flags,regional indicator symbol letter l regional indicator symbol letter v,"[country, flag, latvia]"
+🇱🇾,flags,regional indicator symbol letter l regional indicator symbol letter y,"[country, flag, libya]"
+🇲🇦,flags,regional indicator symbol letter m regional indicator symbol letter a,"[morocco, flag, country]"
+🇲🇨,flags,regional indicator symbol letter m regional indicator symbol letter c,"[country, flag, monaco]"
+🇲🇩,flags,regional indicator symbol letter m regional indicator symbol letter d,"[country, flag, moldova]"
+🇲🇪,flags,regional indicator symbol letter m regional indicator symbol letter e,"[country, flag, montenegro]"
+🇲🇫,flags,regional indicator symbol letter m regional indicator symbol letter f,"[country, flag, saint, french, martin]"
+🇲🇬,flags,regional indicator symbol letter m regional indicator symbol letter g,"[country, flag, madagascar]"
+🇲🇭,flags,regional indicator symbol letter m regional indicator symbol letter h,"[island, flag, marshall, country]"
+🇲🇰,flags,regional indicator symbol letter m regional indicator symbol letter k,"[country, flag, macedonia]"
+🇲🇱,flags,regional indicator symbol letter m regional indicator symbol letter l,"[country, flag, mali]"
+🇲🇲,flags,regional indicator symbol letter m regional indicator symbol letter m,"[burma, country, flag, myanmar]"
+🇲🇳,flags,regional indicator symbol letter m regional indicator symbol letter n,"[country, flag, mongolia]"
+🇲🇴,flags,regional indicator symbol letter m regional indicator symbol letter o,"[macao, flag, china, macau, country]"
+🇲🇵,flags,regional indicator symbol letter m regional indicator symbol letter p,"[north, mariana, northern mariana, island, flag, country]"
+🇲🇶,flags,regional indicator symbol letter m regional indicator symbol letter q,"[country, flag, martinique]"
+🇲🇷,flags,regional indicator symbol letter m regional indicator symbol letter r,"[mauritania, flag, country]"
+🇲🇸,flags,regional indicator symbol letter m regional indicator symbol letter s,"[country, flag, montserrat]"
+🇲🇹,flags,regional indicator symbol letter m regional indicator symbol letter t,"[country, flag, malta]"
+🇲🇺,flags,regional indicator symbol letter m regional indicator symbol letter u,"[mauritius, country, flag]"
+🇲🇻,flags,regional indicator symbol letter m regional indicator symbol letter v,"[country, flag, maldives]"
+🇲🇼,flags,regional indicator symbol letter m regional indicator symbol letter w,"[country, flag, malawi]"
+🇲🇽,flags,regional indicator symbol letter m regional indicator symbol letter x,"[country, flag, mexican, mexico]"
+🇲🇾,flags,regional indicator symbol letter m regional indicator symbol letter y,"[malaysia, flag, country]"
+🇲🇿,flags,regional indicator symbol letter m regional indicator symbol letter z,"[country, flag, mozambique]"
+🇳🇦,flags,regional indicator symbol letter n regional indicator symbol letter a,"[country, flag, namibia]"
+🇳🇨,flags,regional indicator symbol letter n regional indicator symbol letter c,"[new, flag, new caledonia, country]"
+🇳🇪,flags,regional indicator symbol letter n regional indicator symbol letter e,"[country, flag, niger]"
+🇳🇫,flags,regional indicator symbol letter n regional indicator symbol letter f,"[island, flag, norfolk, country]"
+🇳🇬,flags,regional indicator symbol letter n regional indicator symbol letter g,"[country, flag, nigeria]"
+🇳🇮,flags,regional indicator symbol letter n regional indicator symbol letter i,"[country, flag, nicaragua]"
+🇳🇱,flags,regional indicator symbol letter n regional indicator symbol letter l,"[country, flag, netherlands]"
+🇳🇴,flags,regional indicator symbol letter n regional indicator symbol letter o,"[country, flag, norway]"
+🇳🇵,flags,regional indicator symbol letter n regional indicator symbol letter p,"[country, flag, nepal]"
+🇳🇷,flags,regional indicator symbol letter n regional indicator symbol letter r,"[country, flag, nauru]"
+🇳🇺,flags,regional indicator symbol letter n regional indicator symbol letter u,"[country, flag, niue]"
+🇳🇿,flags,regional indicator symbol letter n regional indicator symbol letter z,"[new, flag, new zealand, country]"
+🇴🇲,flags,regional indicator symbol letter o regional indicator symbol letter m,"[oman, flag, country]"
+🇵🇦,flags,regional indicator symbol letter p regional indicator symbol letter a,"[country, flag, panama]"
+🇵🇪,flags,regional indicator symbol letter p regional indicator symbol letter e,"[country, flag, peru]"
+🇵🇫,flags,regional indicator symbol letter p regional indicator symbol letter f,"[country, flag, french, polynesia]"
+🇵🇬,flags,regional indicator symbol letter p regional indicator symbol letter g,"[guinea, flag, country, papua new guinea, new]"
+🇵🇭,flags,regional indicator symbol letter p regional indicator symbol letter h,"[country, flag, philippines]"
+🇵🇰,flags,regional indicator symbol letter p regional indicator symbol letter k,"[pakistan, flag, country]"
+🇵🇱,flags,regional indicator symbol letter p regional indicator symbol letter l,"[country, flag, poland]"
+🇵🇲,flags,regional indicator symbol letter p regional indicator symbol letter m,"[miquelon, country, flag, pierre, saint]"
+🇵🇳,flags,regional indicator symbol letter p regional indicator symbol letter n,"[pitcairn, island, flag, country]"
+🇵🇷,flags,regional indicator symbol letter p regional indicator symbol letter r,"[country, flag, puerto rico]"
+🇵🇸,flags,regional indicator symbol letter p regional indicator symbol letter s,"[palestine, country, flag]"
+🇵🇹,flags,regional indicator symbol letter p regional indicator symbol letter t,"[country, flag, portugal]"
+🇵🇼,flags,regional indicator symbol letter p regional indicator symbol letter w,"[country, flag, palau]"
+🇵🇾,flags,regional indicator symbol letter p regional indicator symbol letter y,"[paraguay, country, flag]"
+🇶🇦,flags,regional indicator symbol letter q regional indicator symbol letter a,"[country, flag, qatar]"
+🇷🇪,flags,regional indicator symbol letter r regional indicator symbol letter e,"[country, flag, r union, reunion]"
+🇷🇴,flags,regional indicator symbol letter r regional indicator symbol letter o,"[country, flag, romania]"
+🇷🇸,flags,regional indicator symbol letter r regional indicator symbol letter s,"[country, flag, serbia]"
+🇷🇺,flags,regional indicator symbol letter r regional indicator symbol letter u,"[country, flag, russia]"
+🇷🇼,flags,regional indicator symbol letter r regional indicator symbol letter w,"[country, flag, rwanda]"
+🇸🇦,flags,regional indicator symbol letter s regional indicator symbol letter a,"[country, flag, saudi arabia]"
+🇸🇧,flags,regional indicator symbol letter s regional indicator symbol letter b,"[island, flag, solomon, country]"
+🇸🇨,flags,regional indicator symbol letter s regional indicator symbol letter c,"[country, flag, seychelles]"
+🇸🇩,flags,regional indicator symbol letter s regional indicator symbol letter d,"[sudan, country, flag]"
+🇸🇪,flags,regional indicator symbol letter s regional indicator symbol letter e,"[country, flag, sweden]"
+🇸🇬,flags,regional indicator symbol letter s regional indicator symbol letter g,"[country, flag, singapore]"
+🇸🇭,flags,regional indicator symbol letter s regional indicator symbol letter h,"[helena, flag, saint, country]"
+🇸🇮,flags,regional indicator symbol letter s regional indicator symbol letter i,"[slovenia, flag, country]"
+🇸🇯,flags,regional indicator symbol letter s regional indicator symbol letter j,"[jan mayen, svalbard, flag, country]"
+🇸🇰,flags,regional indicator symbol letter s regional indicator symbol letter k,"[country, flag, slovakia]"
+🇸🇱,flags,regional indicator symbol letter s regional indicator symbol letter l,"[country, flag, sierra leone]"
+🇸🇲,flags,regional indicator symbol letter s regional indicator symbol letter m,"[country, flag, san marino]"
+🇸🇳,flags,regional indicator symbol letter s regional indicator symbol letter n,"[country, flag, senegal]"
+🇸🇴,flags,regional indicator symbol letter s regional indicator symbol letter o,"[country, flag, somalia]"
+🇸🇷,flags,regional indicator symbol letter s regional indicator symbol letter r,"[country, flag, suriname]"
+🇸🇸,flags,regional indicator symbol letter s regional indicator symbol letter s,"[sudan, country, flag, south sudan, south]"
+🇸🇹,flags,regional indicator symbol letter s regional indicator symbol letter t,"[country, principe, pr ncipe, flag, s o tom, sao tome]"
+🇸🇻,flags,regional indicator symbol letter s regional indicator symbol letter v,"[el salvador, country, flag]"
+🇸🇽,flags,regional indicator symbol letter s regional indicator symbol letter x,"[country, flag, sint, maarten]"
+🇸🇾,flags,regional indicator symbol letter s regional indicator symbol letter y,"[syria, flag, country]"
+🇸🇿,flags,regional indicator symbol letter s regional indicator symbol letter z,"[country, flag, swaziland]"
+🇹🇦,flags,regional indicator symbol letter t regional indicator symbol letter a,"[country, flag, tristan da cunha]"
+🇹🇨,flags,regional indicator symbol letter t regional indicator symbol letter c,"[caicos, island, flag, turks, country]"
+🇹🇩,flags,regional indicator symbol letter t regional indicator symbol letter d,"[country, flag, chad]"
+🇹🇫,flags,regional indicator symbol letter t regional indicator symbol letter f,"[country, antarctic, flag, french]"
+🇹🇬,flags,regional indicator symbol letter t regional indicator symbol letter g,"[togo, flag, country]"
+🇹🇭,flags,regional indicator symbol letter t regional indicator symbol letter h,"[thailand, flag, country]"
+🇹🇯,flags,regional indicator symbol letter t regional indicator symbol letter j,"[country, flag, tajikistan]"
+🇹🇰,flags,regional indicator symbol letter t regional indicator symbol letter k,"[tokelau, country, flag]"
+🇹🇱,flags,regional indicator symbol letter t regional indicator symbol letter l,"[east timor, country, flag, east, timor leste]"
+🇹🇲,flags,regional indicator symbol letter t regional indicator symbol letter m,"[country, flag, turkmenistan]"
+🇹🇳,flags,regional indicator symbol letter t regional indicator symbol letter n,"[tunisia, country, flag]"
+🇹🇴,flags,regional indicator symbol letter t regional indicator symbol letter o,"[country, flag, tonga]"
+🇹🇷,flags,regional indicator symbol letter t regional indicator symbol letter r,"[turkey, country, flag]"
+🇹🇹,flags,regional indicator symbol letter t regional indicator symbol letter t,"[country, flag, tobago, trinidad]"
+🇹🇻,flags,regional indicator symbol letter t regional indicator symbol letter v,"[tuvalu, flag, country]"
+🇹🇼,flags,regional indicator symbol letter t regional indicator symbol letter w,"[country, flag, china, taiwan]"
+🇹🇿,flags,regional indicator symbol letter t regional indicator symbol letter z,"[country, flag, tanzania]"
+🇺🇦,flags,regional indicator symbol letter u regional indicator symbol letter a,"[ukraine, country, flag]"
+🇺🇬,flags,regional indicator symbol letter u regional indicator symbol letter g,"[country, flag, uganda]"
+🇺🇲,flags,regional indicator symbol letter u regional indicator symbol letter m,"[minor outlying, united, usa, island, us, united states, flag, country, america]"
+🇺🇸,flags,regional indicator symbol letter u regional indicator symbol letter s,"[united, country, united states, flag, america, stars and stripes]"
+🇺🇾,flags,regional indicator symbol letter u regional indicator symbol letter y,"[country, flag, uruguay]"
+🇺🇿,flags,regional indicator symbol letter u regional indicator symbol letter z,"[uzbekistan, country, flag]"
+🇻🇦,flags,regional indicator symbol letter v regional indicator symbol letter a,"[country, flag, vatican]"
+🇻🇨,flags,regional indicator symbol letter v regional indicator symbol letter c,"[country, flag, grenadines, saint, vincent]"
+🇻🇪,flags,regional indicator symbol letter v regional indicator symbol letter e,"[country, flag, venezuela]"
+🇻🇬,flags,regional indicator symbol letter v regional indicator symbol letter g,"[island, flag, country, british, virgin]"
+🇻🇮,flags,regional indicator symbol letter v regional indicator symbol letter i,"[united, usa, island, flag, us, united states, virgin, american, country, america]"
+🇻🇳,flags,regional indicator symbol letter v regional indicator symbol letter n,"[country, flag, vietnam, viet nam]"
+🇻🇺,flags,regional indicator symbol letter v regional indicator symbol letter u,"[country, flag, vanuatu]"
+🇼🇫,flags,regional indicator symbol letter w regional indicator symbol letter f,"[country, flag, futuna, wallis]"
+🇼🇸,flags,regional indicator symbol letter w regional indicator symbol letter s,"[country, flag, samoa]"
+🇽🇰,flags,regional indicator symbol letter x regional indicator symbol letter k,"[country, flag, kosovo]"
+🇾🇪,flags,regional indicator symbol letter y regional indicator symbol letter e,"[country, flag, yemen]"
+🇾🇹,flags,regional indicator symbol letter y regional indicator symbol letter t,"[mayotte, country, flag]"
+🇿🇦,flags,regional indicator symbol letter z regional indicator symbol letter a,"[country, flag, south, south africa]"
+🇿🇲,flags,regional indicator symbol letter z regional indicator symbol letter m,"[country, flag, zambia]"
+🇿🇼,flags,regional indicator symbol letter z regional indicator symbol letter w,"[country, flag, zimbabwe]"
+🈁,symbols,squared katakana koko,"[symbol, japanese]"
+🈂,symbols,squared katakana sa,"[symbol, japanese]"
+🈚,symbols,squared cjk unified ideograph,"[symbol, japanese]"
+🈯,symbols,squared cjk unified ideograph,"[symbol, japanese]"
+🈲,symbols,squared cjk unified ideograph,"[japan, symbol, japanese]"
+🈳,symbols,squared cjk unified ideograph a a,"[symbol, chinese]"
+🈴,symbols,squared cjk unified ideograph,"[japan, symbol, chinese]"
+🈵,symbols,squared cjk unified ideograph e,"[japan, symbol, chinese]"
+🈶,symbols,squared cjk unified ideograph,"[symbol, japanese]"
+🈷,symbols,squared cjk unified ideograph,"[symbol, japanese]"
+🈸,symbols,squared cjk unified ideograph,"[symbol, chinese]"
+🈹,symbols,squared cjk unified ideograph,"[symbol, japanese]"
+🈺,symbols,squared cjk unified ideograph b,"[symbol, chinese]"
+🉐,symbols,circled ideograph advantage,"[japan, symbol, japanese]"
+🉑,symbols,circled ideograph accept,"[symbol, chinese]"
+🌀,symbols,cyclone,"[drugs, symbol, dizzy, typhoon, weather, cyclone, twister]"
+🌁,travel,foggy,"[building, places, travel, sky, vacation, weather, fog]"
+🌂,people,closed umbrella,"[umbrella, object, sky, accessories, rain, weather, clothing]"
+🌃,travel,night with stars,"[building, star, places, sky, vacation, goodnight, weather, night]"
+🌄,travel,sunrise over mountains,"[mountain, places, sun, travel, camp, sky, vacation, morning, weather, day, sunrise]"
+🌅,travel,sunrise,"[places, sun, travel, sky, vacation, morning, tropical, weather, hump day, day, sunrise]"
+🌆,travel,cityscape at dusk,"[building, city, evening, places, dusk, sun, weather, sunset, landscape]"
+🌇,travel,sunset over buildings,"[building, places, dusk, sun, sky, vacation, weather, sunset]"
+🌈,travel,rainbow,"[rainbow, weather, sky, gay, rain]"
+🌉,travel,bridge at night,"[bridge, places, travel, vacation, goodnight, weather, night]"
+🌊,nature,water wave,"[swim, tropical, wave, water, weather, ocean, boat]"
+🌋,travel,volcano,"[mountain, places, eruption, tropical, weather, volcano]"
+🌌,travel,milky way,"[places, space, milky way, sky, vacation, weather, travel]"
+🌍,nature,earth globe europe africa,"[europe, map, globe, africa, vacation, world, earth]"
+🌎,nature,earth globe americas,"[map, globe, vacation, americas, world, earth]"
+🌏,nature,earth globe asia australia,"[map, australia, globe, vacation, asia, world, earth]"
+🌐,symbols,globe with meridians,"[symbol, earth, globe, meridians, world]"
+🌑,nature,new moon symbol,"[dark, space, sky, weather, moon]"
+🌒,nature,waxing crescent moon symbol,"[space, sky, moon, waxing, weather, crescent]"
+🌓,nature,first quarter moon symbol,"[weather, quarter, sky, space, moon]"
+🌔,nature,waxing gibbous moon symbol,"[space, sky, moon, waxing, weather, gibbous]"
+🌕,nature,full moon symbol,"[weather, full, sky, space, moon]"
+🌖,nature,waning gibbous moon symbol,"[space, waning, sky, moon, weather, gibbous]"
+🌗,nature,last quarter moon symbol,"[weather, quarter, sky, space, moon]"
+🌘,nature,waning crescent moon symbol,"[space, waning, sky, moon, weather, crescent]"
+🌙,nature,crescent moon,"[space, sky, moon, goodnight, weather, crescent]"
+🌚,nature,new moon with face,"[space, sky, moon, goodnight, weather, face]"
+🌛,nature,first quarter moon with face,"[space, face, sky, moon, weather, quarter]"
+🌜,nature,last quarter moon with face,"[space, face, sky, moon, weather, quarter]"
+🌝,nature,full moon with face,"[full, space, sky, goodnight, moon, bright, weather, face]"
+🌞,nature,sun with face,"[space, sun, sky, face, bright, weather, morning, hump day, day]"
+🌟,nature,glowing star,"[glittery, star, space, sky, sparkle, glow, shining]"
+🌠,travel,shooting star,"[falling, shooting, star, space, activity]"
+🌡,objects,thermometer,"[science, object, hot, weather, health, thermometer]"
+🌤,nature,white sun with small cloud,"[sun, weather, sky, cloud]"
+🌥,nature,white sun behind cloud,"[sun, cold, weather, sky, cloud]"
+🌦,nature,white sun behind cloud with rain,"[sun, sky, rain, weather, cold, cloud]"
+🌧,nature,cloud with rain,"[winter, sky, rain, weather, cold, cloud]"
+🌨,nature,cloud with snow,"[winter, sky, snow, weather, cold, cloud]"
+🌩,nature,cloud with lightning,"[sky, rain, lightning, weather, cold, cloud]"
+🌪,nature,cloud with tornado,"[tornado, sky, weather, cold, cloud, whirlwind]"
+🌫,nature,fog,"[weather, cold, fog, sky, cloud]"
+🌬,nature,wind blowing face,"[blow, face, weather, cloud, cold, wind]"
+🌭,food,hot dog,"[sausage, hot dog, food, frankfurter, america, hotdog]"
+🌮,food,taco,"[food, vagina, mexican, taco]"
+🌯,food,burrito,"[food, mexican, burrito]"
+🌰,nature,chestnut,"[chestnut, plant, nature]"
+🌱,nature,seedling,"[plant, nature, leaf, young, seedling]"
+🌲,nature,evergreen tree,"[evergreen, plant, nature, camp, tree, trees, holidays, christmas]"
+🌳,nature,deciduous tree,"[plant, nature, camp, tree, shedding, trees, deciduous]"
+🌴,nature,palm tree,"[plant, nature, tree, trees, tropical, palm]"
+🌵,nature,cactus,"[plant, cactus, trees, nature]"
+🌶,food,hot pepper,"[plant, food, hot, vegetables, pepper]"
+🌷,nature,tulip,"[plant, flower, nature, tulip, vagina, girls night]"
+🌸,nature,cherry blossom,"[plant, flower, nature, blossom, cherry, tropical]"
+🌹,nature,rose,"[beautiful, plant, flower, nature, rose, rip, condolence]"
+🌺,nature,hibiscus,"[hibiscus, tropical, plant, flower, nature]"
+🌻,nature,sunflower,"[sun, plant, flower, sunflower, nature]"
+🌼,nature,blossom,"[blossom, plant, flower, nature]"
+🌽,food,ear of maize,"[maize, plant, food, corn, maze, ear, vegetables]"
+🌾,nature,ear of rice,"[rice, plant, ear, leaf, nature]"
+🌿,nature,herb,"[herb, plant, leaf, nature]"
+🍀,nature,four leaf clover,"[, clover, plant, leaf, nature, sol, four, luck]"
+🍁,nature,maple leaf,"[falling, leaf, plant, maple, nature]"
+🍂,nature,fallen leaf,"[falling, leaf, plant, nature]"
+🍃,nature,leaf fluttering in wind,"[blow, plant, leaf, nature, flutter, wind]"
+🍄,nature,mushroom,"[drugs, plant, mushroom, nature]"
+🍅,food,tomato,"[tomato, plant, food, vegetables, fruit, vegetable]"
+🍆,food,aubergine,"[plant, aubergine, food, vegetables, penis, eggplant, vegetable]"
+🍇,food,grapes,"[food, plant, fruit, grape]"
+🍈,food,melon,"[melon, food, plant, fruit, boobs]"
+🍉,food,watermelon,"[food, plant, fruit, watermelon]"
+🍊,food,tangerine,"[orange, food, plant, fruit, tangerine]"
+🍋,food,lemon,"[citrus, food, plant, fruit, lemon]"
+🍌,food,banana,"[penis, food, plant, fruit, banana]"
+🍍,food,pineapple,"[food, tropical, plant, fruit, pineapple]"
+🍎,food,red apple,"[plant, apple, food, fruit, red, creationism]"
+🍏,food,green apple,"[food, plant, fruit, green, apple]"
+🍐,food,pear,"[food, plant, fruit, pear]"
+🍑,food,peach,"[food, plant, fruit, peach, butt]"
+🍒,food,cherries,"[food, cherry, plant, fruit]"
+🍓,food,strawberry,"[food, strawberry, plant, fruit, berry]"
+🍔,food,hamburger,"[food, burger, america, hamburger]"
+🍕,food,slice of pizza,"[cheese, slice, food, boys night, pizza, italian]"
+🍖,food,meat on bone,"[food, meat, bone]"
+🍗,food,poultry leg,"[poultry, leg, food, holidays, chicken, bone]"
+🍘,food,rice cracker,"[food, rice, cracker, sushi]"
+🍙,food,rice ball,"[ball, food, sushi, japanese, japan, rice]"
+🍚,food,cooked rice,"[food, cooked, rice, sushi, japan]"
+🍛,food,curry and rice,"[food, rice, curry]"
+🍜,food,steaming bowl,"[noodle, steaming, bowl, food, japan, noodles, ramen]"
+🍝,food,spaghetti,"[pasta, food, noodles, spaghetti, italian]"
+🍞,food,bread,"[food, loaf, bread]"
+🍟,food,french fries,"[food, america, fries, french]"
+🍠,food,roasted sweet potato,"[food, sweet, vegetables, roasted, potato]"
+🍡,food,dango,"[food, dessert, japanese, stick, sweet, skewer, dango]"
+🍢,food,oden,"[kebab, food, seafood, oden, stick, skewer]"
+🍣,food,sushi,"[food, japan, sushi]"
+🍤,food,fried shrimp,"[food, fried, prawn, tempura, shrimp]"
+🍥,food,fish cake with swirl design,"[food, fish, sushi, swirl, pastry, cake]"
+🍦,food,soft ice cream,"[food, dessert, ice, icecream, sweet, soft, cream]"
+🍧,food,shaved ice,"[food, dessert, shaved, ice, sweet]"
+🍨,food,ice cream,"[food, dessert, sweet, ice, cream]"
+🍩,food,doughnut,"[food, dessert, doughnut, sweet, donut]"
+🍪,food,cookie,"[food, dessert, vagina, cookie, sweet]"
+🍫,food,chocolate bar,"[bar, food, dessert, halloween, chocolate, sweet]"
+🍬,food,candy,"[food, dessert, halloween, candy, sweet]"
+🍭,food,lollipop,"[food, dessert, halloween, candy, sweet, lollipop]"
+🍮,food,custard,"[food, dessert, sweet, pudding, custard]"
+🍯,food,honey pot,"[food, sweet, pot, honey, vagina, honeypot]"
+🍰,food,shortcake,"[slice, food, dessert, pastry, sweet, cake, shortcake]"
+🍱,food,bento box,"[box, sushi, food, bento, object, japan]"
+🍲,food,pot of food,"[food, pot, stew, steam]"
+🍳,,cooking,"[frying, cooking, egg, pan]"
+🍴,food,fork and knife,"[fork, object, food, weapon, cooking, knife]"
+🍵,food,teacup without handle,"[cup, tea, drink, caffeine, morning, teacup, beverage, japan, steam]"
+🍶,food,sake bottle and cup,"[bar, alcohol, cup, sake, drink, beverage, girls night, bottle, japan]"
+🍷,food,wine glass,"[bar, alcohol, drink, glass, beverage, girls night, parties, wine, italian]"
+🍸,food,cocktail glass,"[bar, alcohol, cocktail, drink, glass, girls night, parties]"
+🍹,food,tropical drink,"[tropical, drink, bar, alcohol, cocktail]"
+🍺,food,beer mug,"[bar, alcohol, drink, mug, beer, parties]"
+🍻,food,clinking beer mugs,"[thank you, bar, alcohol, drink, mug, cheers, beer, parties, boys night, clink]"
+🍼,food,baby bottle,"[object, food, drink, bottle, baby, milk]"
+🍽,food,fork and knife with plate,"[fork, plate, object, food, cooking, knife]"
+🍾,food,bottle with popping cork,"[bar, alcohol, drink, cork, cheers, bottle, parties, popping]"
+🍿,food,popcorn,"[popcorn, food, parties]"
+🎀,objects,ribbon,"[birthday, object, gift, ribbon, celebration]"
+🎁,objects,wrapped present,"[box, gift, entertainment, object, holidays, birthday, parties, wrapped, christmas, present, celebration]"
+🎂,food,birthday cake,"[food, dessert, parties, birthday, pastry, sweet, cake, celebration]"
+🎃,nature,jack o lantern,"[entertainment, halloween, holidays, jack, activity, celebration, lantern]"
+🎄,nature,christmas tree,"[plant, entertainment, tree, trees, holidays, activity, christmas, celebration]"
+🎅,people,father christmas,"[diversity, winter, people, father, holidays, fantasy, fairy tale, santa, activity, hat, christmas, celebration]"
+🎅🏻,people,father christmas type,[]
+🎅🏼,people,father christmas type,[]
+🎅🏽,people,father christmas type,[]
+🎅🏾,people,father christmas type,[]
+🎅🏿,people,father christmas type,[]
+🎆,travel,fireworks,"[parties, fireworks, celebration, entertainment, activity]"
+🎇,travel,firework sparkler,"[entertainment, fireworks, sparkle, parties, activity, celebration]"
+🎈,objects,balloon,"[good, entertainment, balloon, object, parties, birthday, activity, celebration]"
+🎉,objects,party popper,"[good, girls night, entertainment, object, boys night, parties, holidays, cheers, birthday, popper, activity, party, tada, celebration]"
+🎊,objects,confetti ball,"[ball, entertainment, object, parties, holidays, cheers, birthday, girls night, activity, confetti, boys night, celebration]"
+🎋,nature,tanabata tree,"[plant, entertainment, nature, tree, japanese, trees, activity, banner, celebration]"
+🎌,objects,crossed flags,"[object, japanese, cross, flag, crossed, activity, japan, celebration]"
+🎍,nature,pine decoration,"[plant, nature, japanese, pine, activity, bamboo, celebration]"
+🎎,objects,japanese dolls,"[doll, festival, entertainment, people, japanese, activity, japan, celebration]"
+🎏,objects,carp streamer,"[entertainment, carp, object, flag, streamer, activity, japan, celebration]"
+🎐,objects,wind chime,"[object, japan, bell, entertainment, activity, chime, wind, celebration]"
+🎑,travel,moon viewing ceremony,"[ceremony, places, entertainment, travel, space, sky, moon, activity, celebration]"
+🎒,people,school satchel,"[school, fashion, office, satchel, vacation, bag, activity, accessories]"
+🎓,people,graduation cap,"[office, clothing, cap, accessories, graduation, activity, hat, celebration]"
+🎖,activity,military medal,"[win, object, award, military, medal, celebration]"
+🎗,activity,reminder ribbon,"[reminder, award, ribbon, celebration]"
+🎙,objects,studio microphone,"[microphone, mic, object, studio, music, electronics]"
+🎚,objects,level slider,"[slider, music, level]"
+🎛,objects,control knobs,"[control, knobs, music, time]"
+🎞,objects,film frames,"[entertainment, movie, object, camera, cinema, frames, film]"
+🎟,activity,admission tickets,"[theatre, entertainment, movie, admission, parties, ticket]"
+🎠,travel,carousel horse,"[horse, roller coaster, places, entertainment, object, vacation, carousel, activity]"
+🎡,travel,ferris wheel,"[wheel, places, entertainment, activity, vacation, ferris, amusement park, ferris wheel]"
+🎢,travel,roller coaster,"[coaster, roller coaster, places, entertainment, activity, vacation, amusement park, roller]"
+🎣,activity,fishing pole and fish,"[entertainment, fish, vacation, pole, fishing, sport]"
+🎤,activity,microphone,"[microphone, entertainment, instruments, mic, activity, karaoke]"
+🎥,objects,movie camera,"[object, cinema, movie, entertainment, camera, activity]"
+🎦,symbols,cinema,"[cinema, movie, symbol, entertainment, camera, activity, film]"
+🎧,activity,headphone,"[headphone, instruments, earbud, entertainment, activity]"
+🎨,activity,artist palette,"[palette, art, entertainment, museum, activity, painting]"
+🎩,people,top hat,"[fashion, entertainment, clothing, top, accessories, activity, tophat, hat]"
+🎪,activity,circus tent,"[tent, circus, circus tent, entertainment, activity]"
+🎫,activity,ticket,"[theatre, entertainment, movie, admission, parties, activity, ticket]"
+🎬,activity,clapper board,"[clapper, movie, entertainment, activity]"
+🎭,activity,performing arts,"[art, theatre, entertainment, movie, performing, mask, activity, theater]"
+🎮,activity,video game,"[entertainment, game, controller, boys night, electronics, video game]"
+🎯,activity,direct hit,"[eye, target, entertainment, activity, boys night, dart, game, bullseye, bull, hit, sport]"
+🎰,activity,slot machine,"[slot, boys night, game, activity]"
+🎱,activity,billiards,"[, ball, billiards, game, billiard, eight, boys night, sport, luck]"
+🎲,activity,game die,"[dice, entertainment, die, object, game, boys night]"
+🎳,activity,bowling,"[boys night, game, ball, sport, bowling]"
+🎴,symbols,flower playing cards,"[flower, entertainment, symbol, object, japanese, game, activity, playing, card]"
+🎵,symbols,musical note,"[entertainment, instruments, symbol, note, music, activity]"
+🎶,symbols,multiple musical notes,"[entertainment, instruments, notes, note, music, activity, symbol]"
+🎷,activity,saxophone,"[entertainment, instruments, instrument, sax, saxophone, activity, music]"
+🎸,activity,guitar,"[entertainment, instruments, guitar, instrument, music, activity]"
+🎹,activity,musical keyboard,"[entertainment, instruments, activity, instrument, music, keyboard, piano]"
+🎺,activity,trumpet,"[entertainment, instruments, instrument, music, activity, trumpet]"
+🎻,activity,violin,"[entertainment, instruments, sarcastic, instrument, music, activity, violin]"
+🎼,activity,musical score,"[instruments, entertainment, music, score, activity]"
+🎽,activity,running shirt with sash,"[running, sash, award, shirt]"
+🎾,activity,tennis racquet and ball,"[racquet, tennis, game, ball, sport]"
+🎿,activity,ski and ski boot,"[cold, sport, ski, snow, skiing]"
+🏀,activity,basketball and hoop,"[basketball, hoop, ball, sport, game]"
+🏁,travel,chequered flag,"[flag, checkered, racing, object, chequered]"
+🏂,activity,snowboarder,"[ski, snow, vacation, snowboard, snowboarding, cold, sport, hat]"
+🏃,people,runner,"[diversity, people, runner, men, running, run, boys night, marathon]"
+🏃🏻,people,runner type,[]
+🏃🏼,people,runner type,[]
+🏃🏽,people,runner type,[]
+🏃🏾,people,runner type,[]
+🏃🏿,people,runner type,[]
+🏄,activity,surfer,"[surfing, diversity, men, vacation, surfer, tropical, sport]"
+🏄🏻,activity,surfer type,[]
+🏄🏼,activity,surfer type,[]
+🏄🏽,activity,surfer type,[]
+🏄🏾,activity,surfer type,[]
+🏄🏿,activity,surfer type,[]
+🏅,activity,sports medal,"[perfect, win, object, award, sport, medal]"
+🏆,activity,trophy,"[trophy, perfect, prize, win, object, award, game, parties]"
+🏇,activity,horse racing,"[horse, jockey, racehorse, men, sport, racing, horse racing]"
+🏈,activity,american football,"[ball, football, game, american, sport, america]"
+🏉,activity,rugby football,"[sport, game, ball, rugby, football]"
+🏊,activity,swimmer,"[swim, workout, sport, diversity, swimmer]"
+🏊🏻,activity,swimmer type,[]
+🏊🏼,activity,swimmer type,[]
+🏊🏽,activity,swimmer type,[]
+🏊🏾,activity,swimmer type,[]
+🏊🏿,activity,swimmer type,[]
+🏋,activity,weight lifter,"[flex, diversity, weight, win, workout, men, lifter, weight lifting, sport]"
+🏋🏻,activity,weight lifter type,[]
+🏋🏼,activity,weight lifter type,[]
+🏋🏽,activity,weight lifter type,[]
+🏋🏾,activity,weight lifter type,[]
+🏋🏿,activity,weight lifter type,[]
+🏌,activity,golfer,"[ball, golf, men, vacation, game, sport]"
+🏍,travel,racing motorcycle,"[transportation, travel, bike, racing, motorcycle]"
+🏎,travel,racing car,"[car, racing, transportation]"
+🏏,activity,cricket bat and ball,"[sport, bat, ball, game, cricket]"
+🏐,activity,volleyball,"[game, ball, sport, volleyball]"
+🏑,activity,field hockey stick and ball,"[ball, field, game, hockey, sport, stick]"
+🏒,activity,ice hockey stick and puck,"[puck, ice, game, hockey, sport, stick]"
+🏓,activity,table tennis paddle and ball,"[bat, ball, table tennis, paddle, game, sport, ping pong]"
+🏔,travel,snow capped mountain,"[mountain, places, travel, camp, vacation, snow, cold]"
+🏕,travel,camping,"[travel, camp, places, camping, vacation]"
+🏖,travel,beach with umbrella,"[swim, umbrella, places, travel, vacation, tropical, beach]"
+🏗,travel,building construction,"[building, crane, construction]"
+🏘,travel,house buildings,"[building, house, places]"
+🏙,travel,cityscape,"[building, city, vacation, places]"
+🏚,travel,derelict house building,"[building, house, derelict, places]"
+🏛,travel,classical building,"[building, travel, places, classical, vacation]"
+🏜,travel,desert,"[travel, hot, desert, places, vacation]"
+🏝,travel,desert island,"[swim, places, island, travel, vacation, tropical, beach, desert]"
+🏞,travel,national park,"[travel, national park, park, vacation, camp]"
+🏟,travel,stadium,"[building, places, travel, vacation, stadium, boys night]"
+🏠,travel,house building,"[building, home, places, house]"
+🏡,travel,house with garden,"[building, home, garden, places, house]"
+🏢,travel,office building,"[building, work, places]"
+🏣,travel,japanese post office,"[building, post office, post, japanese, places]"
+🏤,travel,european post office,"[building, post office, post, places, european]"
+🏥,travel,hospital,"[building, places, doctor, hospital, health, medicine, 911]"
+🏦,travel,bank,"[building, places, bank]"
+🏧,symbols,automated teller machine,"[money, symbol, atm, bank, automated, electronics, teller]"
+🏨,travel,hotel,"[building, hotel, vacation, places]"
+🏩,travel,love hotel,"[building, hotel, love, places]"
+🏪,travel,convenience store,"[building, convenience, places, store]"
+🏫,travel,school,"[building, school, places]"
+🏬,travel,department store,"[building, department, places, store]"
+🏭,travel,factory,"[building, travel, factory, places, steam]"
+🏮,objects,izakaya lantern,"[bar, light, object, japanese, japan, red, lantern]"
+🏯,travel,japanese castle,"[building, places, travel, vacation, japanese, castle]"
+🏰,travel,european castle,"[building, places, travel, vacation, castle, european]"
+🏳,objects,waving white flag,"[waving, flag, object]"
+🏴,objects,waving black flag,"[waving, flag, object]"
+🏵,activity,rosette,"[tropical, plant, rosette]"
+🏷,objects,label,"[object, label]"
+🏸,activity,badminton racquet and shuttlecock,"[racquet, birdie, game, badminton, shuttlecock, sport]"
+🏹,activity,bow and arrow,"[sagittarius, weapon, bow, archer, arrow, zodiac, sport, tool]"
+🏺,objects,amphora,"[cooking, jug, amphora, tool, aquarius, object, zodiac, weapon, drink]"
+🏻,modifier,emoji modifier fitzpatrick type,"[fitzpatrick, emoji modifier, tone, skin]"
+🏼,modifier,emoji modifier fitzpatrick type,"[fitzpatrick, emoji modifier, tone, skin]"
+🏽,modifier,emoji modifier fitzpatrick type,"[fitzpatrick, emoji modifier, tone, skin]"
+🏾,modifier,emoji modifier fitzpatrick type,"[fitzpatrick, emoji modifier, tone, skin]"
+🏿,modifier,emoji modifier fitzpatrick type,"[fitzpatrick, emoji modifier, tone, skin]"
+🐀,nature,rat,"[rat, animal]"
+🐁,nature,mouse,"[mouse, animal]"
+🐂,nature,ox,"[zodiac, ox, animal, taurus, bull]"
+🐃,nature,water buffalo,"[water, wildlife, buffalo, animal]"
+🐄,nature,cow,"[animal, cow]"
+🐅,nature,tiger,"[tiger, roar, wildlife, animal]"
+🐆,nature,leopard,"[roar, wildlife, leopard, animal]"
+🐇,nature,rabbit,"[pet, wildlife, bunny, rabbit, animal]"
+🐈,nature,cat,"[pet, halloween, animal, cat]"
+🐉,nature,dragon,"[roar, reptile, fairy tale, animal, dragon]"
+🐊,nature,crocodile,"[crocodile, wildlife, reptile, animal]"
+🐋,nature,whale,"[tropical, whales, whale, wildlife, animal]"
+🐌,nature,snail,"[insects, animal, snail]"
+🐍,nature,snake,"[wildlife, bearer, serpent, reptile, snake, animal, zodiac, creationism, ophiuchus]"
+🐎,nature,horse,"[horse, racehorse, racing, wildlife, animal]"
+🐏,nature,ram,"[sheep, wildlife, ram, animal, aries, zodiac]"
+🐐,nature,goat,"[capricorn, zodiac, goat, animal]"
+🐑,nature,sheep,"[sheep, animal, ewe]"
+🐒,nature,monkey,"[wildlife, monkey, animal]"
+🐓,nature,rooster,"[animal, rooster]"
+🐔,nature,chicken,"[chicken, animal]"
+🐕,nature,dog,"[pet, pug, dog, animal]"
+🐖,nature,pig,"[animal, sow, pig]"
+🐗,nature,boar,"[boar, wildlife, animal, pig]"
+🐘,nature,elephant,"[wildlife, animal, elephant]"
+🐙,nature,octopus,"[wildlife, octopus, animal]"
+🐚,nature,spiral shell,"[shell, spiral]"
+🐛,nature,bug,"[insects, insect, bug, animal]"
+🐜,nature,ant,"[ant, insects, insect, animal]"
+🐝,nature,honeybee,"[insects, insect, honeybee, animal, bee]"
+🐞,nature,lady beetle,"[ladybug, lady beetle, insects, ladybird, insect, animal, beetle]"
+🐟,nature,fish,"[pisces, fish, wildlife, zodiac, animal]"
+🐠,nature,tropical fish,"[tropical, fish, wildlife, animal]"
+🐡,nature,blowfish,"[wildlife, blowfish, fish, animal]"
+🐢,nature,turtle,"[turtle, wildlife, reptile, animal]"
+🐣,nature,hatching chick,"[baby, chick, chicken, animal, hatching]"
+🐤,nature,baby chick,"[baby, chick, chicken, animal]"
+🐥,nature,front facing baby chick,"[baby, chick, chicken, animal]"
+🐦,nature,bird,"[wildlife, bird, animal]"
+🐧,nature,penguin,"[wildlife, animal, penguin]"
+🐨,nature,koala,"[wildlife, koala, animal, bear]"
+🐩,nature,poodle,"[dog, animal, poodle]"
+🐪,nature,dromedary camel,"[dromedary, hump, wildlife, animal, camel]"
+🐫,nature,bactrian camel,"[wildlife, camel, hump, animal, bactrian, hump day]"
+🐬,nature,dolphin,"[tropical, flipper, wildlife, dolphin, animal]"
+🐭,nature,mouse face,"[mouse, animal, face]"
+🐮,nature,cow face,"[animal, cow, face]"
+🐯,nature,tiger face,"[wildlife, roar, cat, tiger, animal, face]"
+🐰,nature,rabbit face,"[wildlife, rabbit, pet, face, animal, bunny]"
+🐱,nature,cat face,"[pet, halloween, face, vagina, animal, cat]"
+🐲,nature,dragon face,"[reptile, monster, roar, face, fairy tale, animal, dragon]"
+🐳,nature,spouting whale,"[wildlife, whales, spouting, face, tropical, animal, whale]"
+🐴,nature,horse face,"[horse, wildlife, animal, face]"
+🐵,nature,monkey face,"[monkey, animal, face]"
+🐶,nature,dog face,"[pet, pug, dog, animal, face]"
+🐷,nature,pig face,"[pig, animal, face]"
+🐸,nature,frog face,"[wildlife, animal, frog, face]"
+🐹,nature,hamster face,"[pet, hamster, animal, face]"
+🐺,nature,wolf face,"[roar, wildlife, wolf, animal, face]"
+🐻,nature,bear face,"[roar, wildlife, animal, bear, face]"
+🐼,nature,panda face,"[roar, wildlife, panda, animal, face]"
+🐽,nature,pig nose,"[pig, nose, animal, face]"
+🐾,nature,paw prints,"[feet, print, animal, paw]"
+🐿,nature,chipmunk,"[chipmunk, wildlife, animal]"
+👀,people,eyes,"[body, eyes, eye, face]"
+👁,people,eye,"[body, eyes, eye]"
+👁‍🗨,people,eye left speech bubble,"[body, eyes, eye, speech, bubble, witness]"
+👂,people,ear,"[body, ear, diversity]"
+👂🏻,people,ear type,[]
+👂🏼,people,ear type,[]
+👂🏽,people,ear type,[]
+👂🏾,people,ear type,[]
+👂🏿,people,ear type,[]
+👃,people,nose,"[body, diversity, nose]"
+👃🏻,people,nose type,[]
+👃🏼,people,nose type,[]
+👃🏽,people,nose type,[]
+👃🏾,people,nose type,[]
+👃🏿,people,nose type,[]
+👄,people,mouth,"[body, lips, lip, sexy, mouth, women]"
+👅,people,tongue,"[body, sexy, tongue, lip]"
+👆,people,white up pointing backhand index,"[body, index, diversity, point, up, hand, finger, hands, backhand]"
+👆🏻,people,white up pointing backhand index type,[]
+👆🏼,people,white up pointing backhand index type,[]
+👆🏽,people,white up pointing backhand index type,[]
+👆🏾,people,white up pointing backhand index type,[]
+👆🏿,people,white up pointing backhand index type,[]
+👇,people,white down pointing backhand index,"[body, index, diversity, point, hand, down, finger, hands, backhand]"
+👇🏻,people,white down pointing backhand index type,[]
+👇🏼,people,white down pointing backhand index type,[]
+👇🏽,people,white down pointing backhand index type,[]
+👇🏾,people,white down pointing backhand index type,[]
+👇🏿,people,white down pointing backhand index type,[]
+👈,people,white left pointing backhand index,"[body, index, diversity, point, hand, hi, finger, hands, backhand]"
+👈🏻,people,white left pointing backhand index type,[]
+👈🏼,people,white left pointing backhand index type,[]
+👈🏽,people,white left pointing backhand index type,[]
+👈🏾,people,white left pointing backhand index type,[]
+👈🏿,people,white left pointing backhand index type,[]
+👉,people,white right pointing backhand index,"[body, index, diversity, point, hand, hi, finger, hands, backhand]"
+👉🏻,people,white right pointing backhand index type,[]
+👉🏼,people,white right pointing backhand index type,[]
+👉🏽,people,white right pointing backhand index type,[]
+👉🏾,people,white right pointing backhand index type,[]
+👉🏿,people,white right pointing backhand index type,[]
+👊,people,fisted hand sign,"[body, diversity, punch, clenched, hand, hi, fist, hands, boys night, fist bump]"
+👊🏻,people,fisted hand sign type,[]
+👊🏼,people,fisted hand sign type,[]
+👊🏽,people,fisted hand sign type,[]
+👊🏾,people,fisted hand sign type,[]
+👊🏿,people,fisted hand sign type,[]
+👋,people,waving hand sign,"[body, diversity, wave, waving, hi, hands, hand]"
+👋🏻,people,waving hand sign type,[]
+👋🏼,people,waving hand sign type,[]
+👋🏽,people,waving hand sign type,[]
+👋🏾,people,waving hand sign type,[]
+👋🏿,people,waving hand sign type,[]
+👌,people,ok hand sign,"[body, perfect, good, diversity, hand, beautiful, hi, hands, ok]"
+👌🏻,people,ok hand sign type,[]
+👌🏼,people,ok hand sign type,[]
+👌🏽,people,ok hand sign type,[]
+👌🏾,people,ok hand sign type,[]
+👌🏿,people,ok hand sign type,[]
+👍,people,thumbs up sign,"[, body, thumbs up, diversity, thumb, beautiful, up, hand, thank you, good, hi, hands, perfect, luck]"
+👍🏻,people,thumbs up sign type,[]
+👍🏼,people,thumbs up sign type,[]
+👍🏽,people,thumbs up sign type,[]
+👍🏾,people,thumbs up sign type,[]
+👍🏿,people,thumbs up sign type,[]
+👎,people,thumbs down sign,"[, body, diversity, thumb, hand, down, thumbs down, hands]"
+👎🏻,people,thumbs down sign type,[]
+👎🏼,people,thumbs down sign type,[]
+👎🏽,people,thumbs down sign type,[]
+👎🏾,people,thumbs down sign type,[]
+👎🏿,people,thumbs down sign type,[]
+👏,people,clapping hands sign,"[body, beautiful, good, diversity, win, hand, hands, clap]"
+👏🏻,people,clapping hands sign type,[]
+👏🏼,people,clapping hands sign type,[]
+👏🏽,people,clapping hands sign type,[]
+👏🏾,people,clapping hands sign type,[]
+👏🏿,people,clapping hands sign type,[]
+👐,people,open hands sign,"[body, diversity, hand, hands, condolence, open]"
+👐🏻,people,open hands sign type,[]
+👐🏼,people,open hands sign type,[]
+👐🏽,people,open hands sign type,[]
+👐🏾,people,open hands sign type,[]
+👐🏿,people,open hands sign type,[]
+👑,people,crown,"[king, object, queen, crown, accessories, clothing, gem]"
+👒,people,womans hat,"[woman, clothing, accessories, fashion, hat, women]"
+👓,people,eyeglasses,"[eyeglasses, eye, eyewear, accessories, fashion, clothing, glasses]"
+👔,people,necktie,"[fashion, clothing, necktie]"
+👕,people,t shirt,"[tshirt, fashion, clothing, shirt]"
+👖,people,jeans,"[jeans, trousers, clothing, fashion, pants]"
+👗,people,dress,"[fashion, clothing, girls night, sexy, dress, women]"
+👘,people,kimono,"[kimono, clothing, fashion]"
+👙,people,bikini,"[swim, fashion, vacation, tropical, bikini, sexy, clothing, women]"
+👚,people,womans clothes,"[woman, clothing, fashion, women]"
+👛,people,purse,"[fashion, money, purse, accessories, bag, coin, clothing, women]"
+👜,people,handbag,"[fashion, vacation, accessories, bag, handbag, clothing, women]"
+👝,people,pouch,"[fashion, clothing, accessories, bag, pouch, women]"
+👞,people,mans shoe,"[accessories, fashion, clothing, shoe, man]"
+👟,people,athletic shoe,"[sneaker, fashion, athletic, accessories, shoe, boys night, clothing]"
+👠,people,high heeled shoe,"[fashion, accessories, woman, girls night, shoe, sexy, clothing, heel, women]"
+👡,people,womans sandal,"[fashion, accessories, sandal, woman, shoe, clothing]"
+👢,people,womans boots,"[woman, boot, accessories, fashion, shoe, sexy, clothing, women]"
+👣,people,footprints,"[body, footprint, print, clothing]"
+👤,people,bust in silhouette,"[silhouette, bust, people]"
+👥,people,busts in silhouette,"[silhouette, bust, people]"
+👦,people,boy,"[baby, boy, diversity, people]"
+👦🏻,people,boy type,[]
+👦🏼,people,boy type,[]
+👦🏽,people,boy type,[]
+👦🏾,people,boy type,[]
+👦🏿,people,boy type,[]
+👧,people,girl,"[diversity, maiden, people, virgo, virgin, baby, girl, zodiac, women]"
+👧🏻,people,girl type,[]
+👧🏼,people,girl type,[]
+👧🏽,people,girl type,[]
+👧🏾,people,girl type,[]
+👧🏿,people,girl type,[]
+👨,people,man,"[diversity, people, selfie, men, sex, boys night, man]"
+👨‍❤️‍👨,people,couple with heart man man,"[diversity, people, couple, men, sex, boys night, selfie, man]"
+👨‍❤️‍💋‍👨,people,kiss man man,"[diversity, people, selfie, men, sex, kiss, boys night, man]"
+👨‍👨‍👦,people,family man man boy,"[boy, diversity, family, people, selfie, men, sex, boys night, man]"
+👨‍👨‍👦‍👦,people,family man man boy boy,"[boy, diversity, family, people, selfie, men, sex, boys night, man]"
+👨‍👨‍👧,people,family man man girl,"[diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨‍👨‍👧‍👦,people,family man man girl boy,"[boy, diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨‍👨‍👧‍👧,people,family man man girl girl,"[diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨‍👩‍👦,people,family man woman boy,"[boy, woman, diversity, family, people, selfie, men, sex, boys night, man]"
+👨‍👩‍👦‍👦,people,family man woman boy boy,"[boy, woman, diversity, family, people, selfie, men, sex, boys night, man]"
+👨‍👩‍👧,people,family man woman girl,"[woman, diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨‍👩‍👧‍👦,people,family man woman girl boy,"[boy, woman, diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨‍👩‍👧‍👧,people,family man woman girl girl,"[woman, diversity, family, people, selfie, men, sex, boys night, girl, man]"
+👨🏻,people,man type,[]
+👨🏼,people,man type,[]
+👨🏽,people,man type,[]
+👨🏾,people,man type,[]
+👨🏿,people,man type,[]
+👩,people,woman,"[woman, diversity, feminist, selfie, people, sex, girls night, women]"
+👩‍❤️‍👨,people,couple with heart woman man,"[woman, diversity, people, couple, feminist, sex, girls night, man, selfie, women]"
+👩‍❤️‍👩,people,couple with heart woman woman,"[woman, diversity, people, couple, feminist, sex, girls night, selfie, women]"
+👩‍❤️‍💋‍👨,people,kiss woman man,"[woman, diversity, people, selfie, feminist, sex, girls night, kiss, man, women]"
+👩‍❤️‍💋‍👩,people,kiss woman woman,"[woman, diversity, people, selfie, feminist, sex, girls night, kiss, women]"
+👩‍👩‍👦,people,family woman woman boy,"[boy, woman, diversity, family, people, selfie, feminist, sex, girls night, women]"
+👩‍👩‍👦‍👦,people,family woman woman boy boy,"[boy, woman, diversity, family, people, selfie, feminist, sex, girls night, women]"
+👩‍👩‍👧,people,family woman woman girl,"[woman, diversity, family, people, selfie, feminist, sex, girls night, girl, women]"
+👩‍👩‍👧‍👦,people,family woman woman girl boy,"[boy, woman, diversity, family, people, selfie, feminist, sex, girls night, girl, women]"
+👩‍👩‍👧‍👧,people,family woman woman girl girl,"[woman, diversity, family, people, selfie, feminist, sex, girls night, girl, women]"
+👩🏻,people,woman type,[]
+👩🏼,people,woman type,[]
+👩🏽,people,woman type,[]
+👩🏾,people,woman type,[]
+👩🏿,people,woman type,[]
+👪,people,family,"[family, people, child, father, mother, baby]"
+👫,people,man and woman holding hands,"[woman, creationism, people, couple, sex, hand, hold, man]"
+👬,people,two men holding hands,"[gay, people, couple, men, sex, hand, lgbt, gemini, twins, zodiac, hold, man]"
+👭,people,two women holding hands,"[woman, people, couple, sex, hand, lgbt, girls night, hold, lesbian, women]"
+👮,people,police officer,"[cop, police, people, 911, men, job, officer, diversity, hat]"
+👮🏻,people,police officer type,[]
+👮🏼,people,police officer type,[]
+👮🏽,people,police officer type,[]
+👮🏾,people,police officer type,[]
+👮🏿,people,police officer type,[]
+👯,people,woman with bunny ears,"[woman, people, dance, parties, dancer, girls night, boys night, sexy, girl, ear, bunny, women]"
+👰,people,bride with veil,"[diversity, people, bride, wedding, veil, women]"
+👰🏻,people,bride with veil type,[]
+👰🏼,people,bride with veil type,[]
+👰🏽,people,bride with veil type,[]
+👰🏾,people,bride with veil type,[]
+👰🏿,people,bride with veil type,[]
+👱,people,person with blond hair,"[men, diversity, blond, people]"
+👱🏻,people,person with blond hair type,[]
+👱🏼,people,person with blond hair type,[]
+👱🏽,people,person with blond hair type,[]
+👱🏾,people,person with blond hair type,[]
+👱🏿,people,person with blond hair type,[]
+👲,people,man with gua pi mao,"[diversity, people, men, gua pi mao, hat, man]"
+👲🏻,people,man with gua pi mao type,[]
+👲🏼,people,man with gua pi mao type,[]
+👲🏽,people,man with gua pi mao type,[]
+👲🏾,people,man with gua pi mao type,[]
+👲🏿,people,man with gua pi mao type,[]
+👳,people,man with turban,"[diversity, people, hat, turban, man]"
+👳🏻,people,man with turban type,[]
+👳🏼,people,man with turban type,[]
+👳🏽,people,man with turban type,[]
+👳🏾,people,man with turban type,[]
+👳🏿,people,man with turban type,[]
+👴,people,older man,"[diversity, people, men, old people, old, man]"
+👴🏻,people,older man type,[]
+👴🏼,people,older man type,[]
+👴🏽,people,older man type,[]
+👴🏾,people,older man type,[]
+👴🏿,people,older man type,[]
+👵,people,older woman,"[diversity, woman, old, old people, people]"
+👵🏻,people,older woman type,[]
+👵🏼,people,older woman type,[]
+👵🏽,people,older woman type,[]
+👵🏾,people,older woman type,[]
+👵🏿,people,older woman type,[]
+👶,people,baby,"[baby, diversity, people]"
+👶🏻,people,baby type,[]
+👶🏼,people,baby type,[]
+👶🏽,people,baby type,[]
+👶🏾,people,baby type,[]
+👶🏿,people,baby type,[]
+👷,people,construction worker,"[diversity, people, men, worker, job, construction, hat]"
+👷🏻,people,construction worker type,[]
+👷🏼,people,construction worker type,[]
+👷🏽,people,construction worker type,[]
+👷🏾,people,construction worker type,[]
+👷🏿,people,construction worker type,[]
+👸,people,princess,"[beautiful, diversity, people, fantasy, fairy tale, girls night, princess, women]"
+👸🏻,people,princess type,[]
+👸🏼,people,princess type,[]
+👸🏽,people,princess type,[]
+👸🏾,people,princess type,[]
+👸🏿,people,princess type,[]
+👹,people,japanese ogre,"[ogre, monster, japanese, face, fantasy, fairy tale, creature]"
+👺,people,japanese goblin,"[monster, angry, japanese, face, fantasy, fairy tale, goblin, creature]"
+👻,people,ghost,"[ghost, monster, halloween, face, fantasy, fairy tale, holidays, creature]"
+👼,people,baby angel,"[diversity, angel, people, face, fantasy, fairy tale, baby, omg]"
+👼🏻,people,baby angel type,[]
+👼🏼,people,baby angel type,[]
+👼🏽,people,baby angel type,[]
+👼🏾,people,baby angel type,[]
+👼🏿,people,baby angel type,[]
+👽,people,extraterrestrial alien,"[monster, fantasy, space, scientology, ufo, face, alien, extraterrestrial, fairy tale, creature]"
+👾,activity,alien monster,"[monster, fantasy, space, ufo, face, alien, extraterrestrial, fairy tale, creature]"
+👿,people,imp,"[devil, monster, fantasy, smiley, demon, face, imp, fairy tale, wth]"
+💀,people,skull,"[body, death, monster, skull, halloween, dead, face, fairy tale]"
+💁,people,information desk person,"[information, diversity, help, people, hand, sassy, women]"
+💁🏻,people,information desk person type,[]
+💁🏼,people,information desk person type,[]
+💁🏽,people,information desk person type,[]
+💁🏾,people,information desk person type,[]
+💁🏿,people,information desk person type,[]
+💂,people,guardsman,"[guardsman, diversity, people, men, job, guard, hat]"
+💂🏻,people,guardsman type,[]
+💂🏼,people,guardsman type,[]
+💂🏽,people,guardsman type,[]
+💂🏾,people,guardsman type,[]
+💂🏿,people,guardsman type,[]
+💃,people,dancer,"[diversity, people, dance, dancer, girls night, sexy, women]"
+💃🏻,people,dancer type,[]
+💃🏼,people,dancer type,[]
+💃🏽,people,dancer type,[]
+💃🏾,people,dancer type,[]
+💃🏿,people,dancer type,[]
+💄,people,lipstick,"[fashion, lipstick, makeup, object, lip, cosmetics, sexy, women]"
+💅,people,nail polish,"[body, diversity, nailpolish, nail, girls night, cosmetics, manicure, hands, polish, women, care]"
+💅🏻,people,nail polish type,[]
+💅🏼,people,nail polish type,[]
+💅🏽,people,nail polish type,[]
+💅🏾,people,nail polish type,[]
+💅🏿,people,nail polish type,[]
+💆,people,face massage,"[salon, women, diversity, massage, people]"
+💆🏻,people,face massage type,[]
+💆🏼,people,face massage type,[]
+💆🏽,people,face massage type,[]
+💆🏾,people,face massage type,[]
+💆🏿,people,face massage type,[]
+💇,people,haircut,"[diversity, beauty, people, haircut, parlor, barber, women]"
+💇🏻,people,haircut type,[]
+💇🏼,people,haircut type,[]
+💇🏽,people,haircut type,[]
+💇🏾,people,haircut type,[]
+💇🏿,people,haircut type,[]
+💈,objects,barber pole,"[pole, haircut, barber, object]"
+💉,objects,syringe,"[object, shot, doctor, drugs, tool, needle, syringe, health, sick, medicine, weapon]"
+💊,objects,pill,"[doctor, drugs, object, health, sick, medicine, pill]"
+💋,people,kiss mark,"[beautiful, heart, love, girls night, mark, romance, lips, lip, kiss, sexy, women]"
+💌,objects,love letter,"[heart, love, object, romance, letter, mail]"
+💍,people,ring,"[diamond, object, accessories, romance, fashion, wedding, ring, gem]"
+💎,objects,gem stone,"[romance, diamond, jewel, gem, object]"
+💏,people,kiss,"[love, people, couple, sex, romance, kiss]"
+💐,nature,bouquet,"[plant, flower, nature, bouquet, rip, romance, condolence]"
+💑,people,couple with heart,"[heart, love, people, couple, sex, romance]"
+💒,travel,wedding,"[building, love, places, activity, romance, parties, wedding, chapel]"
+💓,symbols,beating heart,"[heart, love, symbol, pulsating, heartbeat, beating]"
+💔,symbols,broken heart,"[heart, love, symbol, break, broken, heartbreak]"
+💕,symbols,two hearts,"[heart, symbol, love]"
+💖,symbols,sparkling heart,"[heart, love, symbol, sparkle, girls night, excited]"
+💗,symbols,growing heart,"[heart, love, nervous, symbol, heartpulse, growing, excited]"
+💘,symbols,heart with arrow,"[heart, love, symbol, cupid, romance, arrow]"
+💙,symbols,blue heart,"[blue, heart, symbol, love]"
+💚,symbols,green heart,"[heart, symbol, green, love]"
+💛,symbols,yellow heart,"[heart, symbol, love, yellow]"
+💜,symbols,purple heart,"[purple, heart, symbol, love]"
+💝,symbols,heart with ribbon,"[heart, love, symbol, valentine, condolence, ribbon]"
+💞,symbols,revolving hearts,"[heart, symbol, love, revolving]"
+💟,symbols,heart decoration,"[heart, symbol, love]"
+💠,symbols,diamond shape with a dot inside,"[symbol, comic, diamond, inside, geometric]"
+💡,objects,electric light bulb,"[electric, light, object, idea, science, bulb, comic]"
+💢,symbols,anger symbol,"[symbol, angry, comic, mad]"
+💣,objects,bomb,"[bomb, weapon, object, dead, comic, blast]"
+💤,people,sleeping symbol,"[comic, sleep, zzz, goodnight, tired]"
+💥,nature,collision symbol,"[symbol, collision, comic, blast, boom]"
+💦,nature,splashing sweat symbol,"[comic, stressed, splashing, rain, sweat]"
+💧,nature,droplet,"[drop, sky, rain, weather, sweat, cold, comic]"
+💨,nature,dash symbol,"[dash, running, smoking, comic, cold, cloud]"
+💩,people,pile of poo,"[poop, sol, monster, diarrhea, dung, bathroom, face, poo, comic, shit]"
+💪,people,flexed biceps,"[body, flex, biceps, diversity, feminist, win, workout, hands, boys night, comic, muscle]"
+💪🏻,people,flexed biceps type,[]
+💪🏼,people,flexed biceps type,[]
+💪🏽,people,flexed biceps type,[]
+💪🏾,people,flexed biceps type,[]
+💪🏿,people,flexed biceps type,[]
+💫,nature,dizzy symbol,"[comic, dizzy, star, symbol]"
+💬,symbols,speech balloon,"[symbol, free speech, speech, dialog, comic, bubble, balloon]"
+💭,symbols,thought balloon,"[thought, balloon, symbol, bubble, comic]"
+💮,symbols,white flower,"[symbol, flower]"
+💯,symbols,hundred points symbol,"[, perfect, full, win, symbol, score, parties, hundred, wow]"
+💰,objects,money bag,"[bag, dollar, award, moneybag, money]"
+💱,symbols,currency exchange,"[currency, symbol, money, bank, exchange]"
+💲,symbols,heavy dollar sign,"[currency, symbol, dollar, math, money]"
+💳,objects,credit card,"[money, object, credit, bank, boys night, card]"
+💴,objects,banknote with yen sign,"[banknote, yen, money, bill, note, currency, bank]"
+💵,objects,banknote with dollar sign,"[banknote, money, bill, dollar, note, currency, bank]"
+💶,objects,banknote with euro sign,"[banknote, money, bill, note, currency, bank, euro]"
+💷,objects,banknote with pound sign,"[pound, banknote, money, bill, note, currency, bank]"
+💸,objects,money with wings,"[fly, banknote, money, bill, dollar, note, boys night, wings, bank]"
+💹,symbols,chart with upwards trend and yen sign,"[yen, trend, graph, symbol, rise, chart, currency, growth, bank, money, market, upward]"
+💺,travel,seat,"[transportation, travel, object, vacation, seat, chair]"
+💻,objects,personal computer,"[office, personal, work, pc, computer, electronics]"
+💼,people,briefcase,"[briefcase, work, accessories, bag, job, nutcase]"
+💽,objects,minidisc,"[minidisk, entertainment, computer, electronics, disk, optical]"
+💾,objects,floppy disk,"[disk, floppy, electronics, computer, office]"
+💿,objects,optical disc,"[computer, blu ray, dvd, cd, optical, electronics, disk]"
+📀,objects,dvd,"[entertainment, blu ray, dvd, cd, computer, optical, disk, electronics]"
+📁,objects,file folder,"[folder, work, office, file]"
+📂,objects,open file folder,"[folder, work, open, office, file]"
+📃,objects,page with curl,"[write, curl, document, page, office]"
+📄,objects,page facing up,"[work, write, document, page, office]"
+📅,objects,calendar,"[date, calendar, object, office]"
+📆,objects,tear off calendar,"[calendar, object, office]"
+📇,objects,card index,"[index, object, office, work, rolodex, card]"
+📈,objects,chart with upwards trend,"[office, trend, graph, work, chart, growth, upward]"
+📉,objects,chart with downwards trend,"[office, trend, graph, work, chart, down]"
+📊,objects,bar chart,"[graph, work, bar, chart, office]"
+📋,objects,clipboard,"[work, write, clipboard, office, object]"
+📌,objects,pushpin,"[office, object, pushpin, pin]"
+📍,objects,round pushpin,"[office, object, pushpin, pin]"
+📎,objects,paperclip,"[work, object, paperclip, office]"
+📏,objects,straight ruler,"[ruler, tool, object, straight edge, office]"
+📐,objects,triangular ruler,"[set, triangle, office, ruler, tool, object]"
+📑,objects,bookmark tabs,"[office, bookmark, mark, write, tabs, marker]"
+📒,objects,ledger,"[write, office, notebook, ledger, object]"
+📓,objects,notebook,"[write, notebook, office, object]"
+📔,objects,notebook with decorative cover,"[office, object, cover, notebook, write, book, decorated]"
+📕,objects,closed book,"[write, book, office, closed, object]"
+📖,objects,open book,"[write, book, open, office, object]"
+📗,objects,green book,"[book, green, office, object]"
+📘,objects,blue book,"[blue, write, book, office, object]"
+📙,objects,orange book,"[orange, write, book, office, object]"
+📚,objects,books,"[write, book, books, office, object]"
+📛,symbols,name badge,"[work, badge, name]"
+📜,objects,scroll,"[office, paper, scroll, object]"
+📝,objects,memo,"[pencil, office, communication, memo, work, write]"
+📞,objects,telephone receiver,"[communication, electronics, receiver, telephone, phone]"
+📟,objects,pager,"[communication, electronics, work, pager]"
+📠,objects,fax machine,"[communication, fax, work, electronics, office]"
+📡,objects,satellite antenna,"[dish, communication, satellite, object, antenna]"
+📢,symbols,public address loudspeaker,"[loudspeaker, public address, communication, alarm, object, loud, symbol]"
+📣,symbols,cheering megaphone,"[cheering, megaphone, sport, object, communication]"
+📤,objects,outbox tray,"[box, office, communication, work, letter, mail, outbox, tray, sent]"
+📥,objects,inbox tray,"[box, office, receive, communication, work, inbox, letter, mail, tray]"
+📦,objects,package,"[box, parcel, gift, package, communication, office, object]"
+📧,objects,e mail symbol,"[office, communication, e mail, letter, mail, email]"
+📨,objects,incoming envelope,"[incoming, receive, communication, object, envelope, e mail, letter, mail, email]"
+📩,objects,envelope with downwards arrow above,"[outgoing, letter, office, communication, object, envelope, down, e mail, arrow, mail, email, sent]"
+📪,objects,closed mailbox with lowered flag,"[office, communication, postbox, object, mailbox, flag, lowered, closed, mail]"
+📫,objects,closed mailbox with raised flag,"[communication, postbox, object, mailbox, flag, closed, mail]"
+📬,objects,open mailbox with raised flag,"[communication, postbox, object, mailbox, flag, mail, open]"
+📭,objects,open mailbox with lowered flag,"[communication, postbox, object, mailbox, flag, lowered, mail, open]"
+📮,objects,postbox,"[communication, postbox, mailbox, object, mail]"
+📯,objects,postal horn,"[entertainment, communication, object, horn, post, postal]"
+📰,objects,newspaper,"[office, communication, write, paper, newspaper, news]"
+📱,objects,mobile phone,"[mobile, communication, selfie, telephone, cell, phone, electronics]"
+📲,objects,mobile phone with rightwards arrow at left,"[mobile, communication, selfie, telephone, cell, phone, call, arrow, electronics, receive]"
+📳,symbols,vibration mode,"[vibration, mobile, communication, symbol, telephone, cell, phone, mode]"
+📴,symbols,mobile phone off,"[off, mobile, communication, symbol, telephone, cell, phone]"
+📵,symbols,no mobile phones,"[no, mobile, communication, forbidden, telephone, cell, phone, prohibited, not, symbol]"
+📶,symbols,antenna with bars,"[bar, antenna, mobile, communication, signal, telephone, cell, phone, symbol]"
+📷,objects,camera,"[electronics, camera, video, selfie, entertainment]"
+📸,objects,camera with flash,"[flash, electronics, camera, video]"
+📹,objects,video camera,"[movie, electronics, camera, video, entertainment]"
+📺,objects,television,"[tv, television, video, electronics, entertainment]"
+📻,objects,radio,"[video, electronics, radio, entertainment]"
+📼,objects,videocassette,"[entertainment, vhs, video, tape, electronics, videocassette]"
+📽,objects,film projector,"[object, projector, entertainment, movie, cinema, camera, video, film]"
+📿,objects,prayer beads,"[beads, rosary, object, religion, prayer, necklace, clothing]"
+🔀,symbols,twisted rightwards arrows,"[symbol, crossed, arrow]"
+🔁,symbols,clockwise rightwards and leftwards open circle arrows,"[symbol, clockwise, repeat, arrow]"
+🔂,symbols,clockwise rightwards and leftwards open circle arrows with circled one overlay,"[symbol, clockwise, arrow, once]"
+🔃,symbols,clockwise downwards and upwards open circle arrows,"[reload, symbol, clockwise, arrow]"
+🔄,symbols,anticlockwise downwards and upwards open circle arrows,"[symbol, withershins, counterclockwise, arrow, anticlockwise]"
+🔅,symbols,low brightness symbol,"[dim, symbol, sun, low, brightness]"
+🔆,symbols,high brightness symbol,"[sun, bright, symbol, brightness]"
+🔇,symbols,speaker with cancellation stroke,"[silent, mute, alarm, quiet, volume, speaker, symbol]"
+🔈,symbols,speaker,"[volume, alarm, speaker, symbol]"
+🔉,symbols,speaker with one sound wave,"[alarm, wave, volume, speaker, low, symbol]"
+🔊,symbols,speaker with three sound waves,"[, volume, entertainment, alarm, three, high, speaker, loud, symbol]"
+🔋,objects,battery,"[battery, object]"
+🔌,objects,electric plug,"[electricity, plug, electronics, electric]"
+🔍,objects,left pointing magnifying glass,"[glass, search, object, tool, magnifying]"
+🔎,objects,right pointing magnifying glass,"[glass, search, object, tool, magnifying]"
+🔏,objects,lock with ink pen,"[privacy, nib, lock, object, pen, ink]"
+🔐,objects,closed lock with key,"[lock, object, key, closed, secure]"
+🔑,objects,key,"[lock, password, key, object]"
+🔒,objects,lock,"[lock, object, closed]"
+🔓,objects,open lock,"[lock, unlock, object, open]"
+🔔,symbols,bell,"[alarm, object, symbol, bell]"
+🔕,symbols,bell with cancellation stroke,"[bell, silent, mute, forbidden, no, quiet, symbol, prohibited, not, alarm]"
+🔖,objects,bookmark,"[bookmark, object, book, mark]"
+🔗,objects,link symbol,"[symbol, link, office]"
+🔘,symbols,radio button,"[symbol, button, circle, radio, geometric]"
+🔙,symbols,back with leftwards arrow above,"[symbol, back, arrow]"
+🔚,symbols,end with leftwards arrow above,"[symbol, end, arrow]"
+🔛,symbols,on with exclamation mark with left right arrow above,"[on, symbol, arrow, mark]"
+🔜,symbols,soon with rightwards arrow above,"[symbol, soon, arrow]"
+🔝,symbols,top with upwards arrow above,"[symbol, top, up, arrow]"
+🔞,symbols,no one under eighteen symbol,"[, no, forbidden, underage, age restriction, eighteen, prohibited, not, symbol]"
+🔟,symbols,keycap ten,"[, ten, keycap, symbol, number, math]"
+🔠,symbols,input symbol for latin capital letters,"[input, symbol, latin, letters, uppercase]"
+🔡,symbols,input symbol for latin small letters,"[abcd, lowercase, latin, letters, symbol, input]"
+🔢,symbols,input symbol for numbers,"[, input, symbol, numbers]"
+🔣,symbols,input symbol for symbols,"[input, symbol]"
+🔤,symbols,input symbol for latin letters,"[abc, letters, alphabet, symbol, latin, input]"
+🔥,nature,fire,"[fire, wth, tool, flame, hot]"
+🔦,objects,electric torch,"[flashlight, object, electric, light, tool, torch, electronics]"
+🔧,objects,wrench,"[tool, object, wrench]"
+🔨,objects,hammer,"[tool, object, hammer, weapon]"
+🔩,objects,nut and bolt,"[nut, object, tool, bolt, nutcase]"
+🔪,objects,hocho,"[object, hocho, tool, cooking, weapon, knife]"
+🔫,objects,pistol,"[weapon, object, gun, dead, revolver, sarcastic, pistol, handgun, tool]"
+🔬,objects,microscope,"[science, microscope, object, tool]"
+🔭,objects,telescope,"[science, tool, object, telescope, space]"
+🔮,objects,crystal ball,"[ball, fortune, fantasy, tool, object, crystal, fairy tale]"
+🔯,symbols,six pointed star with middle dot,"[star, symbol, fortune, jew, religion]"
+🔰,symbols,japanese symbol for beginner,"[leaf, beginner, tool, japanese, yellow, green, chevron, symbol]"
+🔱,symbols,trident emblem,"[trident, emblem, tool, object, symbol, ship, anchor]"
+🔲,symbols,black square button,"[shapes, button, square, symbol, geometric]"
+🔳,symbols,white square button,"[square, button, symbol, shapes, geometric, outlined]"
+🔴,symbols,large red circle,"[shapes, circle, symbol, geometric, red]"
+🔵,symbols,large blue circle,"[blue, shapes, circle, symbol, geometric]"
+🔶,symbols,large orange diamond,"[orange, shapes, geometric, diamond, symbol]"
+🔷,symbols,large blue diamond,"[blue, shapes, geometric, diamond, symbol]"
+🔸,symbols,small orange diamond,"[orange, shapes, geometric, diamond, symbol]"
+🔹,symbols,small blue diamond,"[blue, shapes, geometric, diamond, symbol]"
+🔺,symbols,up pointing red triangle,"[shapes, geometric, triangle, symbol, red]"
+🔻,symbols,down pointing red triangle,"[shapes, triangle, symbol, down, geometric, red]"
+🔼,symbols,up pointing small red triangle,"[symbol, button, triangle, red, arrow]"
+🔽,symbols,down pointing small red triangle,"[triangle, button, down, arrow, symbol, red]"
+🕉,symbols,om symbol,"[hindu, om, symbol, religion]"
+🕊,nature,dove of peace,"[fly, peace, dove, bird, animal]"
+🕋,travel,kaaba,"[building, places, kaaba, muslim, religion, condolence, islam]"
+🕌,travel,mosque,"[building, places, muslim, mosque, vacation, religion, condolence, islam]"
+🕍,travel,synagogue,"[building, synagogue, jew, places, jewish, travel, vacation, religion, condolence, temple]"
+🕎,symbols,menorah with nine branches,"[menorah, jew, symbol, object, candlestick, holidays, religion, candelabrum]"
+🕐,symbols,clock face one oclock,"[, o clock, clock, symbol, one, time]"
+🕑,symbols,clock face two oclock,"[, o clock, clock, symbol, two, time]"
+🕒,symbols,clock face three oclock,"[, o clock, clock, symbol, three, time]"
+🕓,symbols,clock face four oclock,"[, o clock, clock, symbol, four, time]"
+🕔,symbols,clock face five oclock,"[, o clock, clock, symbol, five, time]"
+🕕,symbols,clock face six oclock,"[, o clock, clock, symbol, six, time]"
+🕖,symbols,clock face seven oclock,"[, seven, o clock, clock, symbol, time]"
+🕗,symbols,clock face eight oclock,"[, o clock, clock, symbol, eight, time]"
+🕘,symbols,clock face nine oclock,"[, o clock, clock, symbol, nine, time]"
+🕙,symbols,clock face ten oclock,"[, o clock, ten, clock, symbol, time]"
+🕚,symbols,clock face eleven oclock,"[, o clock, clock, symbol, eleven, time]"
+🕛,symbols,clock face twelve oclock,"[, twelve, o clock, clock, symbol, time]"
+🕜,symbols,clock face one thirty,"[, thirty, clock, symbol, one, time]"
+🕝,symbols,clock face two thirty,"[, thirty, clock, symbol, two, time]"
+🕞,symbols,clock face three thirty,"[, thirty, clock, symbol, three, time]"
+🕟,symbols,clock face four thirty,"[, thirty, clock, symbol, four, time]"
+🕠,symbols,clock face five thirty,"[, thirty, clock, symbol, five, time]"
+🕡,symbols,clock face six thirty,"[, thirty, clock, symbol, six, time]"
+🕢,symbols,clock face seven thirty,"[, seven, thirty, clock, symbol, time]"
+🕣,symbols,clock face eight thirty,"[, thirty, clock, symbol, eight, time]"
+🕤,symbols,clock face nine thirty,"[, thirty, clock, symbol, nine, time]"
+🕥,symbols,clock face ten thirty,"[, ten, thirty, clock, symbol, time]"
+🕦,symbols,clock face eleven thirty,"[, thirty, clock, symbol, eleven, time]"
+🕧,symbols,clock face twelve thirty,"[, twelve, thirty, clock, symbol, time]"
+🕯,objects,candle,"[candle, object, light]"
+🕰,objects,mantelpiece clock,"[object, time, clock]"
+🕳,objects,hole,"[hole, object]"
+🕴,activity,man in business suit levitating,"[job, suit, men, business, man]"
+🕵,people,sleuth or spy,"[detective, sleuth, diversity, people, men, spy, job, hat, glasses]"
+🕵🏻,people,sleuth or spy type,[]
+🕵🏼,people,sleuth or spy type,[]
+🕵🏽,people,sleuth or spy type,[]
+🕵🏾,people,sleuth or spy type,[]
+🕵🏿,people,sleuth or spy type,[]
+🕶,people,dark sunglasses,"[fashion, sunglasses, eyewear, accessories, dark, eye, glasses]"
+🕷,nature,spider,"[insects, insect, halloween, spider, animal]"
+🕸,nature,spider web,"[web, halloween, spider]"
+🕹,objects,joystick,"[entertainment, game, boys night, electronics, video game, joystick]"
+🕺,unicode9,man dancing,"[dance, man]"
+🕺🏻,unicode9,man dancing type,[]
+🕺🏼,unicode9,man dancing type,[]
+🕺🏽,unicode9,man dancing type,[]
+🕺🏾,unicode9,man dancing type,[]
+🕺🏿,unicode9,man dancing type,[]
+🖇,objects,linked paperclips,"[object, office, communication, work, link, paperclip]"
+🖊,objects,lower left ballpoint pen,"[ballpoint, office, communication, object, write, pen]"
+🖋,objects,lower left fountain pen,"[office, communication, object, write, pen, fountain]"
+🖌,objects,lower left paintbrush,"[office, communication, object, write, painting, paintbrush]"
+🖍,objects,lower left crayon,"[write, communication, object, crayon, office]"
+🖐,people,raised hand with fingers splayed,"[body, diversity, splayed, hand, hi, finger, hands]"
+🖐🏻,people,raised hand with fingers splayed type,[]
+🖐🏼,people,raised hand with fingers splayed type,[]
+🖐🏽,people,raised hand with fingers splayed type,[]
+🖐🏾,people,raised hand with fingers splayed type,[]
+🖐🏿,people,raised hand with fingers splayed type,[]
+🖕,people,reversed hand with middle finger extended,"[body, diversity, middle finger, hand, finger, hands]"
+🖕🏻,people,reversed hand with middle finger extended type,[]
+🖕🏼,people,reversed hand with middle finger extended type,[]
+🖕🏽,people,reversed hand with middle finger extended type,[]
+🖕🏾,people,reversed hand with middle finger extended type,[]
+🖕🏿,people,reversed hand with middle finger extended type,[]
+🖖,people,raised hand with part between middle and ring fingers,"[body, diversity, hand, vulcan, finger, hands, spock, hi]"
+🖖🏻,people,raised hand with part between middle and ring fingers type,[]
+🖖🏼,people,raised hand with part between middle and ring fingers type,[]
+🖖🏽,people,raised hand with part between middle and ring fingers type,[]
+🖖🏾,people,raised hand with part between middle and ring fingers type,[]
+🖖🏿,people,raised hand with part between middle and ring fingers type,[]
+🖤,unicode9,black heart,"[heart, black, evil, wicked]"
+🖥,objects,desktop computer,"[work, electronics, computer, desktop]"
+🖨,objects,printer,"[work, electronics, computer, office, printer]"
+🖱,objects,three button mouse,"[, office, button, work, three, game, computer, electronics, mouse]"
+🖲,objects,trackball,"[office, work, game, computer, trackball, electronics]"
+🖼,objects,frame with picture,"[picture, art, travel, museum, vacation, painting, frame]"
+🗂,objects,card index dividers,"[index, dividers, work, office, card]"
+🗃,objects,card file box,"[box, work, office, object, file, card]"
+🗄,objects,file cabinet,"[work, object, office, file, cabinet]"
+🗑,objects,wastebasket,"[work, wastebasket, object]"
+🗒,objects,spiral note pad,"[write, office, work, spiral, note, pad]"
+🗓,objects,spiral calendar pad,"[calendar, object, pad, spiral, office]"
+🗜,objects,compression,"[tool, compression, vice]"
+🗝,objects,old key,"[lock, object, old, key, clue]"
+🗞,objects,rolled up newspaper,"[office, rolled, write, paper, newspaper, news]"
+🗡,objects,dagger knife,"[weapon, object, dagger, knife]"
+🗣,people,speaking head in silhouette,"[head, silhouette, people, face, talk, speaking, speak]"
+🗨,,left speech bubble,"[speech, dialog]"
+🗯,symbols,right anger bubble,"[symbol, angry, bubble, balloon, mad]"
+🗳,objects,ballot box with ballot,"[box, object, ballot, office]"
+🗺,objects,world map,"[map, travel, vacation, world]"
+🗻,travel,mount fuji,"[mountain, places, travel, camp, vacation, fuji, cold]"
+🗼,travel,tokyo tower,"[places, tokyo, eiffel tower, vacation, tower, travel]"
+🗽,travel,statue of liberty,"[statue of liberty, places, travel, free speech, vacation, liberty, statue, america]"
+🗾,travel,silhouette of japan,"[map, places, travel, vacation, tropical, japan]"
+🗿,objects,moyai,"[vacation, moyai, travel, statue, face]"
+😀,people,grinning face,"[emotion, happy, smiley, grin, face]"
+😁,people,grinning face with smiling eyes,"[emotion, good, eye, selfie, smiley, face, silly, smile, grin, happy]"
+😂,people,face with tears of joy,"[emotion, cry, tear, joy, smiley, sarcastic, face, silly, laugh, happy]"
+😃,people,smiling face with open mouth,"[emotion, good, smiley, face, mouth, smile, open, happy]"
+😄,people,smiling face with open mouth and smiling eyes,"[emotion, eye, smiley, face, mouth, smile, open, happy]"
+😅,people,smiling face with open mouth and cold sweat,"[emotion, workout, smiley, face, sweat, smile, cold, open]"
+😆,people,smiling face with open mouth and tightly closed eyes,"[emotion, smiley, satisfied, face, mouth, laugh, smile, open, happy]"
+😇,people,smiling face with halo,"[emotion, angel, smiley, face, fantasy, fairy tale, innocent, smile, halo]"
+😈,people,smiling face with horns,"[devil, monster, angry, smiley, boys night, face, fantasy, fairy tale, silly, horns, smile]"
+😉,people,winking face,"[emotion, wink, smiley, silly, face]"
+😊,people,smiling face with smiling eyes,"[emotion, beautiful, good, eye, smiley, face, smile, blush, happy]"
+😋,people,face savouring delicious food,"[emotion, good, smiley, silly, face, um, yum, savouring, delicious, smile, sarcastic, happy]"
+😌,people,relieved face,"[relieved, emotion, smiley, face]"
+😍,people,smiling face with heart shaped eyes,"[emotion, heart, eye, love, smiley, face, beautiful, heart eyes, smile, sex, happy]"
+😎,people,smiling face with sunglasses,"[sunglasses, eye, sun, emojione, smiley, eyewear, face, bright, weather, silly, boys night, smile, cool, glasses]"
+😏,people,smirking face,"[smirk, smiley, sarcastic, face, silly, sexy]"
+😐,people,neutral face,"[shrug, emotion, deadpan, smiley, face, neutral, mad]"
+😑,people,expressionless face,"[emotion, inexpressive, expressionless, smiley, face, neutral, mad, unexpressive]"
+😒,people,unamused face,"[emotion, unamused, tired, smiley, unhappy, sad, mad, face]"
+😓,people,face with cold sweat,"[emotion, smiley, sad, sweat, stressed, cold, face]"
+😔,people,pensive face,"[emotion, pensive, smiley, dejected, rip, sad, face]"
+😕,people,confused face,"[emotion, smiley, confused, surprised, face]"
+😖,people,confounded face,"[emotion, confounded, angry, smiley, sad, face]"
+😗,people,kissing face,"[sexy, smiley, kiss, face]"
+😘,people,face throwing a kiss,"[heart, love, smiley, face, kiss, sexy]"
+😙,people,kissing face with smiling eyes,"[eye, smiley, face, kiss, sexy, smile]"
+😚,people,kissing face with closed eyes,"[eye, closed, smiley, face, kiss, sexy]"
+😛,people,face with stuck out tongue,"[emotion, tongue, smiley, sex, face]"
+😜,people,face with stuck out tongue and winking eye,"[emotion, eye, joke, smiley, face, wink, parties, tongue, happy]"
+😝,people,face with stuck out tongue and tightly closed eyes,"[emotion, eye, taste, smiley, face, horrible, tongue, happy]"
+😞,people,disappointed face,"[emotion, tired, smiley, sad, face, disappointed]"
+😟,people,worried face,"[emotion, worried, sad, smiley, face]"
+😠,people,angry face,"[emotion, angry, smiley, mad, face]"
+😡,people,pouting face,"[emotion, rage, angry, smiley, face, mad, pouting, red]"
+😢,people,crying face,"[emotion, smiley, tear, cry, rip, sad, heartbreak, face]"
+😣,people,persevering face,"[persevere, emotion, angry, smiley, sad, face]"
+😤,people,face with look of triumph,"[emotion, angry, smiley, face, won, mad, steam, triumph]"
+😥,people,disappointed but relieved face,"[emotion, cry, relieved, smiley, sad, whew, stressed, face, disappointed, sweat]"
+😦,people,frowning face with open mouth,"[emotion, frown, smiley, sad, mouth, face, open, surprised]"
+😧,people,anguished face,"[emotion, smiley, sad, anguished, face, surprised]"
+😨,people,fearful face,"[emotion, fearful, scared, smiley, face, fear, surprised]"
+😩,people,weary face,"[emotion, tired, face, smiley, sad, stressed, weary]"
+😪,people,sleepy face,"[emotion, smiley, sleep, sick, face]"
+😫,people,tired face,"[emotion, tired, sad, smiley, face]"
+😬,people,grimacing face,"[emotion, selfie, smiley, face, silly, grimace]"
+😭,people,loudly crying face,"[emotion, sob, tear, cry, smiley, sad, heartbreak, face]"
+😮,people,face with open mouth,"[emotion, wow, smiley, face, sympathy, mouth, open, surprised]"
+😯,people,hushed face,"[stunned, hushed, wow, smiley, face, surprised]"
+😰,people,face with open mouth and cold sweat,"[blue, emotion, rushed, smiley, face, mouth, sweat, cold, open]"
+😱,people,face screaming in fear,"[emotion, omg, fearful, scared, smiley, munch, face, wow, fear, scream, surprised]"
+😲,people,astonished face,"[emotion, omg, wow, smiley, shocked, face, astonished, totally, surprised]"
+😳,people,flushed face,"[emotion, omg, smiley, face, dazed, flushed]"
+😴,people,sleeping face,"[emotion, zzz, tired, smiley, face, goodnight, sleep]"
+😵,people,dizzy face,"[emotion, omg, wow, smiley, dead, face, dizzy, surprised]"
+😶,people,face without mouth,"[emotion, silent, smiley, quiet, face, neutral, mouth, mad]"
+😷,people,face with medical mask,"[doctor, smiley, mask, dead, face, health, sick, medicine, cold]"
+😸,people,grinning cat face with smiling eyes,"[eye, face, animal, smile, cat, grin, happy]"
+😹,people,cat face with tears of joy,"[animal, tear, joy, cry, sarcastic, face, silly, laugh, cat, happy]"
+😺,people,smiling cat face with open mouth,"[face, mouth, animal, smile, cat, open, happy]"
+😻,people,smiling cat face with heart shaped eyes,"[beautiful, heart, eye, love, face, animal, heart eyes, smile, cat]"
+😼,people,cat face with wry smile,"[face, animal, ironic, smile, cat, wry]"
+😽,people,kissing cat face with closed eyes,"[face, eye, animal, kiss, cat]"
+😾,people,pouting cat face,"[pouting, face, animal, cat]"
+😿,people,crying cat face,"[tear, cry, face, cat, animal, sad]"
+🙀,people,weary cat face,"[oh, weary, cat, animal, face, surprised]"
+🙁,people,slightly frowning face,"[emotion, sad, frown, smiley, face]"
+🙂,people,slightly smiling face,"[smile, happy, smiley, face]"
+🙃,people,upside down face,"[smiley, silly, upside down, sarcastic, face]"
+🙄,people,face with rolling eyes,"[emotion, eyes, rolling eyes, smiley, sarcastic, face, mad, rolling]"
+🙅,people,face with no good gesture,"[diversity, no, forbidden, people, hand, prohibited, not, girls night, gesture, women]"
+🙅🏻,people,face with no good gesture type,[]
+🙅🏼,people,face with no good gesture type,[]
+🙅🏽,people,face with no good gesture type,[]
+🙅🏾,people,face with no good gesture type,[]
+🙅🏿,people,face with no good gesture type,[]
+🙆,people,face with ok gesture,"[diversity, people, hand, ok, gesture, women]"
+🙆🏻,people,face with ok gesture type,[]
+🙆🏼,people,face with ok gesture type,[]
+🙆🏽,people,face with ok gesture type,[]
+🙆🏾,people,face with ok gesture type,[]
+🙆🏿,people,face with ok gesture type,[]
+🙇,people,person bowing deeply,"[diversity, apology, people, pray, bow, sorry, gesture]"
+🙇🏻,people,person bowing deeply type,[]
+🙇🏼,people,person bowing deeply type,[]
+🙇🏽,people,person bowing deeply type,[]
+🙇🏾,people,person bowing deeply type,[]
+🙇🏿,people,person bowing deeply type,[]
+🙈,nature,see no evil monkey,"[monkey, no, forbidden, evil, face, see, prohibited, animal, not, gesture]"
+🙉,nature,hear no evil monkey,"[monkey, no, forbidden, evil, face, hear, animal, not, prohibited, gesture]"
+🙊,nature,speak no evil monkey,"[monkey, no, forbidden, evil, face, prohibited, animal, not, gesture, speak]"
+🙋,people,happy person raising one hand,"[raised, diversity, people, hand, happy, gesture, women]"
+🙋🏻,people,happy person raising one hand type,[]
+🙋🏼,people,happy person raising one hand type,[]
+🙋🏽,people,happy person raising one hand type,[]
+🙋🏾,people,happy person raising one hand type,[]
+🙋🏿,people,happy person raising one hand type,[]
+🙌,people,person raising both hands in celebration,"[body, perfect, raised, good, diversity, parties, hand, hooray, hands, gesture, celebration]"
+🙌🏻,people,person raising both hands in celebration type,[]
+🙌🏼,people,person raising both hands in celebration type,[]
+🙌🏽,people,person raising both hands in celebration type,[]
+🙌🏾,people,person raising both hands in celebration type,[]
+🙌🏿,people,person raising both hands in celebration type,[]
+🙍,people,person frowning,"[women, diversity, frown, gesture, people]"
+🙍🏻,people,person frowning type,[]
+🙍🏼,people,person frowning type,[]
+🙍🏽,people,person frowning type,[]
+🙍🏾,people,person frowning type,[]
+🙍🏿,people,person frowning type,[]
+🙎,people,person with pouting face,"[women, pouting, diversity, gesture, people]"
+🙎🏻,people,person with pouting face type,[]
+🙎🏼,people,person with pouting face type,[]
+🙎🏽,people,person with pouting face type,[]
+🙎🏾,people,person with pouting face type,[]
+🙎🏿,people,person with pouting face type,[]
+🙏,people,person with folded hands,"[body, diversity, pray, please, folded, scientology, hand, thank you, hi, thanks, hands, ask, bow, gesture, luck]"
+🙏🏻,people,person with folded hands type,[]
+🙏🏼,people,person with folded hands type,[]
+🙏🏽,people,person with folded hands type,[]
+🙏🏾,people,person with folded hands type,[]
+🙏🏿,people,person with folded hands type,[]
+🚀,travel,rocket,"[fly, transportation, rocket, space, object, vehicle, blast]"
+🚁,travel,helicopter,"[fly, transportation, travel, plane, vehicle, helicopter]"
+🚂,travel,steam locomotive,"[engine, transportation, travel, steam, train, vehicle, railway, locomotive]"
+🚃,travel,railway car,"[transportation, electric, tram, car, travel, vehicle, train, trolleybus, railway]"
+🚄,travel,high speed train,"[transportation, travel, shinkansen, train, vehicle, railway, speed]"
+🚅,travel,high speed train with bullet nose,"[transportation, bullet, travel, shinkansen, train, vehicle, railway, speed]"
+🚆,travel,train,"[railway, train, transportation, travel, vehicle]"
+🚇,travel,metro,"[transportation, metro, travel, train, subway, vehicle]"
+🚈,travel,light rail,"[railway, train, transportation, travel, vehicle]"
+🚉,travel,station,"[transportation, travel, train, vehicle, station, railway]"
+🚊,travel,tram,"[transportation, tram, trolleybus, travel, train, vehicle]"
+🚋,travel,tram car,"[transportation, trolleybus, tram, car, travel, train, vehicle]"
+🚌,travel,bus,"[bus, transportation, office, vehicle]"
+🚍,travel,oncoming bus,"[bus, oncoming, transportation, travel, vehicle]"
+🚎,travel,trolleybus,"[trolley, transportation, trolleybus, tram, bus, travel, vehicle]"
+🚏,travel,bus stop,"[bus, object, stop, busstop]"
+🚐,travel,minibus,"[bus, minibus, transportation, vehicle]"
+🚑,travel,ambulance,"[911, vehicle, transportation, ambulance]"
+🚒,travel,fire engine,"[engine, transportation, fire, truck, vehicle, 911]"
+🚓,travel,police car,"[patrol, car, police, vehicle, transportation, 911]"
+🚔,travel,oncoming police car,"[police, car, oncoming, vehicle, transportation, 911]"
+🚕,travel,taxi,"[taxi, car, travel, transportation, vehicle]"
+🚖,travel,oncoming taxi,"[taxi, transportation, car, oncoming, vehicle, travel]"
+🚗,travel,automobile,"[automobile, travel, vehicle, transportation, car]"
+🚘,travel,oncoming automobile,"[transportation, automobile, oncoming, vehicle, travel, car]"
+🚙,travel,recreational vehicle,"[rv, transportation, car, travel, recreational, vehicle]"
+🚚,travel,delivery truck,"[delivery, transportation, truck, vehicle]"
+🚛,travel,articulated lorry,"[transportation, truck, lorry, semi, vehicle]"
+🚜,travel,tractor,"[transportation, tractor, vehicle]"
+🚝,travel,monorail,"[transportation, travel, vacation, train, vehicle, monorail]"
+🚞,travel,mountain railway,"[mountain, transportation, car, travel, train, vehicle, railway]"
+🚟,travel,suspension railway,"[transportation, travel, train, vehicle, suspension, railway]"
+🚠,travel,mountain cableway,"[mountain, transportation, cable, gondola, travel, train, vehicle]"
+🚡,travel,aerial tramway,"[aerial, cable, car, travel, vehicle, train, tramway, gondola, transportation, ropeway]"
+🚢,travel,ship,"[transportation, travel, vacation, vehicle, ship, boat]"
+🚣,activity,rowboat,"[rowboat, diversity, workout, men, vehicle, sport, rowing, boat]"
+🚣🏻,activity,rowboat type,[]
+🚣🏼,activity,rowboat type,[]
+🚣🏽,activity,rowboat type,[]
+🚣🏾,activity,rowboat type,[]
+🚣🏿,activity,rowboat type,[]
+🚤,travel,speedboat,"[transportation, speedboat, vacation, tropical, vehicle, travel, boat]"
+🚥,travel,horizontal traffic light,"[light, signal, object, traffic, stop light]"
+🚦,travel,vertical traffic light,"[light, signal, object, traffic, stop light]"
+🚧,travel,construction sign,"[construction, barrier, object]"
+🚨,travel,police cars revolving light,"[light, police, transportation, car, object, beacon, vehicle, revolving, 911]"
+🚩,objects,triangular flag on post,"[flag, object, post]"
+🚪,objects,door,"[object, door]"
+🚫,symbols,no entry sign,"[no, forbidden, prohibited, not, entry, circle, symbol]"
+🚬,objects,smoking symbol,"[drugs, smoking, symbol, activity]"
+🚭,symbols,no smoking symbol,"[no, forbidden, prohibited, not, smoking, symbol]"
+🚮,symbols,put litter in its place symbol,"[litter, symbol, litterbox]"
+🚯,symbols,do not litter symbol,"[no, forbidden, litter, prohibited, not, symbol]"
+🚰,symbols,potable water symbol,"[water, potable, drink, symbol]"
+🚱,symbols,non potable water symbol,"[no, forbidden, drink, water, prohibited, not, potable, symbol]"
+🚲,travel,bicycle,"[transportation, travel, bike, bicycle, vehicle]"
+🚳,symbols,no bicycles,"[bicycle, no, forbidden, bike, prohibited, vehicle, not, symbol]"
+🚴,activity,bicyclist,"[cyclist, bicycle, bicyclist, workout, men, bike, diversity, sport]"
+🚴🏻,activity,bicyclist type,[]
+🚴🏼,activity,bicyclist type,[]
+🚴🏽,activity,bicyclist type,[]
+🚴🏾,activity,bicyclist type,[]
+🚴🏿,activity,bicyclist type,[]
+🚵,activity,mountain bicyclist,"[cyclist, mountain, bicycle, bicyclist, men, bike, diversity, sport]"
+🚵🏻,activity,mountain bicyclist type,[]
+🚵🏼,activity,mountain bicyclist type,[]
+🚵🏽,activity,mountain bicyclist type,[]
+🚵🏾,activity,mountain bicyclist type,[]
+🚵🏿,activity,mountain bicyclist type,[]
+🚶,people,pedestrian,"[walking, diversity, people, hike, men, walk, pedestrian]"
+🚶🏻,people,pedestrian type,[]
+🚶🏼,people,pedestrian type,[]
+🚶🏽,people,pedestrian type,[]
+🚶🏾,people,pedestrian type,[]
+🚶🏿,people,pedestrian type,[]
+🚷,symbols,no pedestrians,"[no, forbidden, pedestrian, prohibited, not, symbol]"
+🚸,symbols,children crossing,"[crossing, pedestrian, symbol, traffic, child]"
+🚹,symbols,mens symbol,"[lavatory, restroom, wc, symbol, man]"
+🚺,symbols,womens symbol,"[lavatory, woman, wc, symbol, restroom]"
+🚻,symbols,restroom,"[lavatory, wc, symbol, restroom]"
+🚼,symbols,baby symbol,"[baby, changing, symbol]"
+🚽,objects,toilet,"[toilet, bathroom, object]"
+🚾,symbols,water closet,"[wc, closet, symbol, restroom, water, lavatory]"
+🚿,objects,shower,"[shower, water, bathroom, object]"
+🛀,activity,bath,"[bathroom, diversity, tired, bath, bathtub, steam]"
+🛀🏻,activity,bath type,[]
+🛀🏼,activity,bath type,[]
+🛀🏽,activity,bath type,[]
+🛀🏾,activity,bath type,[]
+🛀🏿,activity,bath type,[]
+🛁,objects,bathtub,"[bathroom, tired, object, bath, bathtub, steam]"
+🛂,symbols,passport control,"[control, symbol, passport]"
+🛃,symbols,customs,"[symbol, customs]"
+🛄,symbols,baggage claim,"[baggage, symbol, claim]"
+🛅,symbols,left luggage,"[baggage, locker, luggage, symbol, left luggage]"
+🛋,objects,couch and lamp,"[lamp, hotel, object, couch]"
+🛌,objects,sleeping accommodation,"[hotel, sleep, tired]"
+🛍,objects,shopping bags,"[object, shopping, hotel, bag, birthday, parties]"
+🛎,objects,bellhop bell,"[hotel, bellhop, object, bell]"
+🛏,objects,bed,"[hotel, sleep, tired, bed, object]"
+🛐,symbols,place of worship,"[pray, religion, symbol, worship]"
+🛑,unicode9,octagonal sign,"[octagonal, stop]"
+🛒,unicode9,shopping trolley,"[trolley, shopping, cart]"
+🛠,objects,hammer and wrench,"[tool, object, hammer, wrench]"
+🛡,objects,shield,"[weapon, object, shield]"
+🛢,objects,oil drum,"[oil, drum, object]"
+🛣,travel,motorway,"[travel, camp, vacation, motorway, highway, road]"
+🛤,travel,railway track,"[railway, train, travel, vacation]"
+🛥,travel,motor boat,"[transportation, travel, motorboat, boat, vehicle]"
+🛩,travel,small airplane,"[fly, transportation, travel, vacation, plane, vehicle, airplane]"
+🛫,travel,airplane departure,"[fly, transportation, travel, departure, vacation, plane, departures, vehicle, airplane, check in]"
+🛬,travel,airplane arriving,"[fly, transportation, travel, vacation, landing, plane, arrivals, vehicle, arriving, airplane]"
+🛰,travel,satellite,"[satellite, vehicle, object, space]"
+🛳,travel,passenger ship,"[passenger, transportation, travel, vacation, vehicle, ship, boat]"
+🛴,unicode9,scooter,"[scooter, kick]"
+🛵,unicode9,motor scooter,"[scooter, moped, motor]"
+🛶,unicode9,canoe,"[boat, canoe]"
+🤐,people,zipper mouth face,"[zipper, smiley, mouth, mad, face]"
+🤑,people,money mouth face,"[emotion, money, smiley, face, mouth, win, boys night]"
+🤒,people,face with thermometer,"[emotion, ill, smiley, face, health, sick, thermometer]"
+🤓,people,nerd face,"[geek, smiley, nerd, glasses, face]"
+🤔,people,thinking face,"[thinking, boys night, smiley, face]"
+🤕,people,face with head bandage,"[emotion, face, smiley, hurt, health, bandage, sick, injury]"
+🤖,people,robot face,"[robot, monster, face]"
+🤗,people,hugging face,"[thank you, hug, smiley, hugging, face]"
+🤘,people,sign of the horns,"[body, diversity, rock on, horns, hand, parties, hi, finger, hands, boys night]"
+🤘🏻,people,sign of the horns type,[]
+🤘🏼,people,sign of the horns type,[]
+🤘🏽,people,sign of the horns type,[]
+🤘🏾,people,sign of the horns type,[]
+🤘🏿,people,sign of the horns type,[]
+🤙,unicode9,call me hand,"[call, hand]"
+🤙🏻,unicode9,call me hand type,[]
+🤙🏼,unicode9,call me hand type,[]
+🤙🏽,unicode9,call me hand type,[]
+🤙🏾,unicode9,call me hand type,[]
+🤙🏿,unicode9,call me hand type,[]
+🤚,unicode9,raised back of hand,"[raised, backhand]"
+🤚🏻,unicode9,raised back of hand type,[]
+🤚🏼,unicode9,raised back of hand type,[]
+🤚🏽,unicode9,raised back of hand type,[]
+🤚🏾,unicode9,raised back of hand type,[]
+🤚🏿,unicode9,raised back of hand type,[]
+🤛,unicode9,left facing fist,"[leftwards, fist]"
+🤛🏻,unicode9,left facing fist type,[]
+🤛🏼,unicode9,left facing fist type,[]
+🤛🏽,unicode9,left facing fist type,[]
+🤛🏾,unicode9,left facing fist type,[]
+🤛🏿,unicode9,left facing fist type,[]
+🤜,unicode9,right facing fist,"[rightwards, fist]"
+🤜🏻,unicode9,right facing fist type,[]
+🤜🏼,unicode9,right facing fist type,[]
+🤜🏽,unicode9,right facing fist type,[]
+🤜🏾,unicode9,right facing fist type,[]
+🤜🏿,unicode9,right facing fist type,[]
+🤝,unicode9,handshake,"[handshake, shake, meeting, agreement, hand]"
+🤝🏻,unicode9,handshake type,[]
+🤝🏼,unicode9,handshake type,[]
+🤝🏽,unicode9,handshake type,[]
+🤝🏾,unicode9,handshake type,[]
+🤝🏿,unicode9,handshake type,[]
+🤞,unicode9,hand with index and middle fingers crossed,"[luck, hand, cross, finger]"
+🤞🏻,unicode9,hand with index and middle fingers crossed type,[]
+🤞🏼,unicode9,hand with index and middle fingers crossed type,[]
+🤞🏽,unicode9,hand with index and middle fingers crossed type,[]
+🤞🏾,unicode9,hand with index and middle fingers crossed type,[]
+🤞🏿,unicode9,hand with index and middle fingers crossed type,[]
+🤠,unicode9,face with cowboy hat,"[cowgirl, face, hat, cowboy]"
+🤡,unicode9,clown face,"[clown, face]"
+🤢,unicode9,nauseated face,"[vomit, nauseated, face]"
+🤣,unicode9,rolling on the floor laughing,"[floor, lol, rofl, laugh, rolling, face]"
+🤤,unicode9,drooling face,"[drooling, face]"
+🤥,unicode9,lying face,"[lie, pinocchio, face]"
+🤦,unicode9,face palm,"[face, palm, disbelief, exasperation]"
+🤦🏻,unicode9,face palm type,[]
+🤦🏼,unicode9,face palm type,[]
+🤦🏽,unicode9,face palm type,[]
+🤦🏾,unicode9,face palm type,[]
+🤦🏿,unicode9,face palm type,[]
+🤧,unicode9,sneezing face,"[gesundheit, sneeze, face]"
+🤰,unicode9,pregnant woman,"[woman, pregnant]"
+🤰🏻,unicode9,pregnant woman type,[]
+🤰🏼,unicode9,pregnant woman type,[]
+🤰🏽,unicode9,pregnant woman type,[]
+🤰🏾,unicode9,pregnant woman type,[]
+🤰🏿,unicode9,pregnant woman type,[]
+🤳,unicode9,selfie,"[phone, selfie, camera]"
+🤳🏻,unicode9,selfie type,[]
+🤳🏼,unicode9,selfie type,[]
+🤳🏽,unicode9,selfie type,[]
+🤳🏾,unicode9,selfie type,[]
+🤳🏿,unicode9,selfie type,[]
+🤴,unicode9,prince,[prince]
+🤴🏻,unicode9,prince type,[]
+🤴🏼,unicode9,prince type,[]
+🤴🏽,unicode9,prince type,[]
+🤴🏾,unicode9,prince type,[]
+🤴🏿,unicode9,prince type,[]
+🤵,unicode9,man in tuxedo,"[tuxedo, groom, man]"
+🤵🏻,unicode9,man in tuxedo type,[]
+🤵🏼,unicode9,man in tuxedo type,[]
+🤵🏽,unicode9,man in tuxedo type,[]
+🤵🏾,unicode9,man in tuxedo type,[]
+🤵🏿,unicode9,man in tuxedo type,[]
+🤶,unicode9,mother christmas,"[mrs claus, christmas, mother]"
+🤶🏻,unicode9,mother christmas type,[]
+🤶🏼,unicode9,mother christmas type,[]
+🤶🏽,unicode9,mother christmas type,[]
+🤶🏾,unicode9,mother christmas type,[]
+🤶🏿,unicode9,mother christmas type,[]
+🤷,unicode9,shrug,"[shrug, doubt, indifference, ignorance]"
+🤷🏻,unicode9,shrug type,[]
+🤷🏼,unicode9,shrug type,[]
+🤷🏽,unicode9,shrug type,[]
+🤷🏾,unicode9,shrug type,[]
+🤷🏿,unicode9,shrug type,[]
+🤸,unicode9,person doing cartwheel,"[gymnastics, cartwheel]"
+🤸🏻,unicode9,person doing cartwheel type,[]
+🤸🏼,unicode9,person doing cartwheel type,[]
+🤸🏽,unicode9,person doing cartwheel type,[]
+🤸🏾,unicode9,person doing cartwheel type,[]
+🤸🏿,unicode9,person doing cartwheel type,[]
+🤹,unicode9,juggling,"[skill, juggle, balance, multitask]"
+🤹🏻,unicode9,juggling type,[]
+🤹🏼,unicode9,juggling type,[]
+🤹🏽,unicode9,juggling type,[]
+🤹🏾,unicode9,juggling type,[]
+🤹🏿,unicode9,juggling type,[]
+🤺,unicode9,fencer,"[fencing, fencer, sword]"
+🤼,unicode9,wrestlers,"[wrestle, wrestler]"
+🤼🏻,unicode9,wrestlers type,[]
+🤼🏼,unicode9,wrestlers type,[]
+🤼🏽,unicode9,wrestlers type,[]
+🤼🏾,unicode9,wrestlers type,[]
+🤼🏿,unicode9,wrestlers type,[]
+🤽,unicode9,water polo,"[polo, water]"
+🤽🏻,unicode9,water polo type,[]
+🤽🏼,unicode9,water polo type,[]
+🤽🏽,unicode9,water polo type,[]
+🤽🏾,unicode9,water polo type,[]
+🤽🏿,unicode9,water polo type,[]
+🤾,unicode9,handball,"[handball, ball]"
+🤾🏻,unicode9,handball type,[]
+🤾🏼,unicode9,handball type,[]
+🤾🏽,unicode9,handball type,[]
+🤾🏾,unicode9,handball type,[]
+🤾🏿,unicode9,handball type,[]
+🥀,unicode9,wilted flower,"[wilted, flower]"
+🥁,unicode9,drum with drumsticks,"[drumsticks, drum, music]"
+🥂,unicode9,clinking glasses,"[glass, clink, drink, celebrate]"
+🥃,unicode9,tumbler glass,"[shot, liquor, glass, booze, tumbler, whisky]"
+🥄,unicode9,spoon,"[spoon, tableware]"
+🥅,unicode9,goal net,"[net, goal]"
+🥇,unicode9,first place medal,"[medal, gold, first]"
+🥈,unicode9,second place medal,"[second, medal, silver]"
+🥉,unicode9,third place medal,"[medal, third, bronze]"
+🥊,unicode9,boxing glove,"[boxing, glove]"
+🥋,unicode9,martial arts uniform,"[karate, martial arts, uniform, judo, taekwondo]"
+🥐,unicode9,croissant,"[croissant, crescent roll, french, bread]"
+🥑,unicode9,avocado,"[fruit, avocado]"
+🥒,unicode9,cucumber,"[vegetable, pickle, cucumber]"
+🥓,unicode9,bacon,"[bacon, meat, pig]"
+🥔,unicode9,potato,"[vegetable, potato]"
+🥕,unicode9,carrot,"[vegetable, carrot]"
+🥖,unicode9,baguette bread,"[baguette, french, bread]"
+🥗,unicode9,green salad,"[green, salad]"
+🥘,unicode9,shallow pan of food,"[pan of food, shallow, paella, casserole, pan]"
+🥙,unicode9,stuffed flatbread,"[falafel, flatbread, stuffed, kebab, gyro]"
+🥚,unicode9,egg,[egg]
+🥛,unicode9,glass of milk,"[glass, drink, milk]"
+🥜,unicode9,peanuts,"[vegetable, peanut, nut]"
+🥝,unicode9,kiwifruit,"[kiwi, fruit]"
+🥞,unicode9,pancakes,"[cr pe, hotcake, pancake]"
+🦀,nature,crab,"[tropical, zodiac, crab, cancer, animal]"
+🦁,nature,lion face,"[wildlife, roar, leo, lion, cat, animal, zodiac, face]"
+🦂,nature,scorpion,"[reptile, scorpius, scorpio, scorpion, insects, animal, zodiac]"
+🦃,flags,turkey,"[turkey, country, flag]"
+🦄,nature,unicorn face,"[unicorn, animal, face]"
+🦅,unicode9,eagle,"[eagle, bird]"
+🦆,unicode9,duck,"[bird, duck]"
+🦇,unicode9,bat,"[bat, vampire]"
+🦈,unicode9,shark,"[fish, shark]"
+🦉,unicode9,owl,"[owl, wise, bird]"
+🦊,unicode9,fox face,"[fox, face]"
+🦋,unicode9,butterfly,"[butterfly, insect, pretty]"
+🦌,unicode9,deer,[deer]
+🦍,unicode9,gorilla,[gorilla]
+🦎,unicode9,lizard,"[lizard, reptile]"
+🦏,unicode9,rhinoceros,[rhinoceros]
+🦐,unicode9,shrimp,"[small, shellfish, shrimp]"
+🦑,unicode9,squid,"[squid, molusc]"
+🧀,food,cheese wedge,"[food, cheese]"
