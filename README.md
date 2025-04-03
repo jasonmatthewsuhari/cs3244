@@ -44,10 +44,14 @@ Follow these steps to set up the environment and download the dataset:
 ```bash
 git clone https://github.com/jasonmatthewsuhari/cs3244.git
 cd cs3244/
-2. Download the dataset
 ```
 
-Ensure you have a file named urls.txt containing the tweet data URLs. Then run:
+### 2. Download the Dataset  
+
+Ensure you have a file named urls.txt containing the tweet data URLs. This is the access point for our S3 bucket which contains all of the processed .npy files,
+in case you would prefer to load the dataset locally for your own testing.  
+
+In the entry point(s) of our code--mainly the Jupyter Notebooks--we will be directly loading the numpy files into memory. **This step is optional.**
 
 ```bash
 # Linux/macOS
@@ -60,7 +64,7 @@ Get-Content urls.txt | ForEach-Object { Invoke-WebRequest -Uri $_ -OutFile ("dat
 ```
 💡 If wget or PowerShell is unavailable, you may also use curl or a browser-based download method.
 
-3. Set up a Python virtual environment
+### 3. Set up a Python virtual environment
 
 ```bash
 # Linux/macOS
@@ -80,7 +84,7 @@ python -m venv venv
 venv\Scripts\Activate.ps1
 ```
 
-4. Install required dependencies
+### 4. Install required dependencies
 
 ```bash
 pip install -r requirements.txt
