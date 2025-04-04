@@ -1,2 +1,16 @@
 bs4
 playwright
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+nltk
+spacy
+textblob
+wordcloud
+transformers==4.36.2
+torch
+requests
