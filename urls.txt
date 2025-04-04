@@ -1,3 +1,6 @@
 https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/test_bert_embeddings.npy
 https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/train_bert_embeddings.npy
 https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/valid_bert_embeddings.npy
+https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/train_with_bert_embeddings.csv
+https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/valid_with_bert_embeddings.csv
+https://cs3244-twemoji-ay2425-s2.s3.ap-southeast-2.amazonaws.com/test_with_bert_embeddings.csv
