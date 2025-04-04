@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "WhatsApp Hover Emoji Logger",
+    "version": "1.0",
+    "description": "Changes the emojis you get in WhatsApp.",
+    "permissions": ["scripting"],
+    "host_permissions": ["https://web.whatsapp.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://web.whatsapp.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
