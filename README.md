@@ -89,3 +89,5 @@ venv\Scripts\Activate.ps1
 ```bash
 pip install -r requirements.txt
 ```
+
+### 5. (Optional) If you're adding a new model to the project, please request write access for caching of the model. If not, you can also just add the train code locally
