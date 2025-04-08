@@ -14,3 +14,5 @@ wordcloud
 transformers==4.36.2
 torch
 requests
+pyspellchecker
+indexer
