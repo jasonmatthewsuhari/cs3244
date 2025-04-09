@@ -2,6 +2,15 @@
 data/*.npy
 data/*.csv
 
+# LaTeX / PDF
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.pdf
+
 # Models (cache might be huge just realized)
 models/
 

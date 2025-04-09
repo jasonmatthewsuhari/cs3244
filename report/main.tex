@@ -1,0 +1,57 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{\textbf{Decoding Emotions:\\A Classification Approach to Assigning Emoticons to Text}}
+\author{
+  Jason Matthew Suhari \\
+  Bryan Castorius Halim \\
+  Nigel Eng Wee Kiat \\
+  Muhammad Salman Al Farisi \\
+  Ng Jia Hao Sherwin \\
+  Ryan Justyn
+}
+\date{CS3244 Machine Learning (AY24/25 Semester 2)\\
+National University of Singapore}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This project explores the application of machine learning to predict the most appropriate emoji for a given piece of tweet text. Using the Twemoji dataset and techniques like text preprocessing, feature engineering, and multi-class classification, we aim to build a model capable of suggesting emojis that reflect the emotional tone of the input.
+\end{abstract}
+
+\section{Project Overview}
+This project, completed as part of \textbf{CS3244 Machine Learning (AY24/25 Semester 2)} at the \textbf{National University of Singapore}, explores machine learning techniques for predicting the most fitting emoji for a tweet.
+
+We utilized the \textbf{Twemoji dataset}, which contains Tweet IDs and corresponding emoji labels. Since the original dataset does not include tweet text, we attempted to retrieve tweet content using the \textbf{Twitter v2 API} and scraping via \textbf{Nitter}. However, we encountered rate-limiting issues even with parallelization and self-hosted instances.
+
+We acknowledge the dataset work from the following sources:
+\begin{itemize}[leftmargin=1.5em]
+  \item \url{https://github.com/ckcherry23/Twemoji/tree/main/Datasets}
+  \item \url{https://github.com/RussellDash332/CS3244-Twemoji/blob/main/Cleaning-1.ipynb}
+\end{itemize}
+
+\section{Team Members}
+\begin{itemize}[leftmargin=1.5em]
+  \item Jason Matthew Suhari
+  \item Bryan Castorius Halim
+  \item Nigel Eng Wee Kiat
+  \item Muhammad Salman Al Farisi
+  \item Ng Jia Hao Sherwin
+  \item Ryan Justyn
+\end{itemize}
+
+\section{Dataset Description}
+The \textbf{Twemoji} dataset is tailored for emoji classification. Each record consists of a Tweet ID and a corresponding emoji label. Due to API restrictions, tweet content was retrieved externally to enable supervised learning. This enriched dataset serves as the input for our ML pipeline.
+
+\section{Motivation}
+Emojis enhance digital communication by adding emotional and contextual depth. However, picking the "right" emoji isn't always straightforward.
+
+We believe emoji prediction can improve user experience on platforms like \textbf{Twitter}, \textbf{Telegram}, or \textbf{iMessage}. This task also allows us to practice key ML techniques: text preprocessing, vectorization, classification, and model evaluation.
