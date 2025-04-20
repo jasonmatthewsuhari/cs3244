@@ -16,3 +16,7 @@ pyspellchecker
 indexer
 boto3
 python-dotenv
+lightgbm
+xgboost
+tensorflow
+imbalanced-learn
