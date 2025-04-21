@@ -20,3 +20,5 @@ lightgbm
 xgboost
 tensorflow
 imbalanced-learn
+uvicorn
+fastapi
