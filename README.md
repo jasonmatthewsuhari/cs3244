@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ### 5. (Optional) Adding a new model
 If you're adding a new model to the project, please request write access for caching of the model. If not, you can also just add the train code locally
 
-### 6. (Optional) Updatign the report PDF
+### 6. (Optional) Updating the report PDF
 To update the report PDF, you may look into `report/main.tex` and make your updates there, and if you have the `make` tool as well as `pdflatex` installed, you may do the following commands to re-generate the PDF. 
 
 ```bash
